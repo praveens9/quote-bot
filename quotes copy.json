@@ -1,0 +1,608 @@
+[
+  {
+    "Quote": "Don't cry because it's over, smile because it happened.",
+    "Author": "Dr. Seuss",
+    "Tags": [
+      "attributed-no-source",
+      "cry",
+      "crying",
+      "experience",
+      "happiness",
+      "joy",
+      "life",
+      "misattributed-dr-seuss",
+      "optimism",
+      "sadness",
+      "smile",
+      "smiling "
+    ],
+    "Popularity": 0.15566615566615566,
+    "Category": "life"
+  },
+  {
+    "Quote": "Don't cry because it's over, smile because it happened.",
+    "Author": "Dr. Seuss",
+    "Tags": [
+      "attributed-no-source",
+      "cry",
+      "crying",
+      "experience",
+      "happiness",
+      "joy",
+      "life",
+      "misattributed-dr-seuss",
+      "optimism",
+      "sadness",
+      "smile",
+      "smiling "
+    ],
+    "Popularity": 0.15566615566615566,
+    "Category": "happiness"
+  },
+  {
+    "Quote":
+      "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "attributed-no-source",
+      "best",
+      "life",
+      "love",
+      "mistakes",
+      "out-of-control",
+      "truth",
+      "worst "
+    ],
+    "Popularity": 0.12912212912212911,
+    "Category": "love"
+  },
+  {
+    "Quote":
+      "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "attributed-no-source",
+      "best",
+      "life",
+      "love",
+      "mistakes",
+      "out-of-control",
+      "truth",
+      "worst "
+    ],
+    "Popularity": 0.12912212912212911,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "attributed-no-source",
+      "best",
+      "life",
+      "love",
+      "mistakes",
+      "out-of-control",
+      "truth",
+      "worst "
+    ],
+    "Popularity": 0.12912212912212911,
+    "Category": "truth"
+  },
+  {
+    "Quote": "Be yourself; everyone else is already taken.",
+    "Author": "Oscar Wilde",
+    "Tags": [
+      "attributed-no-source",
+      "be-yourself",
+      "honesty",
+      "inspirational",
+      "misattributed-oscar-wilde "
+    ],
+    "Popularity": 0.11322311322311322,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "human-nature",
+      "humor",
+      "infinity",
+      "philosophy",
+      "science",
+      "stupidity",
+      "universe "
+    ],
+    "Popularity": 0.10312710312710313,
+    "Category": "humor"
+  },
+  {
+    "Quote":
+      "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "human-nature",
+      "humor",
+      "infinity",
+      "philosophy",
+      "science",
+      "stupidity",
+      "universe "
+    ],
+    "Popularity": 0.10312710312710313,
+    "Category": "philosophy"
+  },
+  {
+    "Quote":
+      "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "human-nature",
+      "humor",
+      "infinity",
+      "philosophy",
+      "science",
+      "stupidity",
+      "universe "
+    ],
+    "Popularity": 0.10312710312710313,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+    "Author": "Bernard M. Baruch",
+    "Tags": [
+      "ataraxy",
+      "be-yourself",
+      "confidence",
+      "fitting-in",
+      "individuality",
+      "those-who-matter "
+    ],
+    "Popularity": 0.10189010189010189,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey",
+    "Tags": [
+      "dance",
+      "heaven",
+      "hurt",
+      "inspirational",
+      "life",
+      "love",
+      "sing "
+    ],
+    "Popularity": 0.10005610005610005,
+    "Category": "love"
+  },
+  {
+    "Quote":
+      "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey",
+    "Tags": [
+      "dance",
+      "heaven",
+      "hurt",
+      "inspirational",
+      "life",
+      "love",
+      "sing "
+    ],
+    "Popularity": 0.10005610005610005,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey",
+    "Tags": [
+      "dance",
+      "heaven",
+      "hurt",
+      "inspirational",
+      "life",
+      "love",
+      "sing "
+    ],
+    "Popularity": 0.10005610005610005,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "Author": "Dr. Seuss",
+    "Tags": [
+      "attributed-no-source",
+      "dreams",
+      "love",
+      "reality",
+      "sleep "
+    ],
+    "Popularity": 0.09572409572409572,
+    "Category": "love"
+  },
+  {
+    "Quote": "A room without books is like a body without a soul.",
+    "Author": "Marcus Tullius Cicero",
+    "Tags": ["attributed-no-source", "books", "simile", "soul "],
+    "Popularity": 0.09537509537509538,
+    "Category": "soul"
+  },
+  {
+    "Quote": "A room without books is like a body without a soul.",
+    "Author": "Marcus Tullius Cicero",
+    "Tags": ["attributed-no-source", "books", "simile", "soul "],
+    "Popularity": 0.09537509537509538,
+    "Category": "books"
+  },
+  {
+    "Quote": "So many books, so little time.",
+    "Author": "Frank Zappa",
+    "Tags": ["books", "humor "],
+    "Popularity": 0.09506809506809506,
+    "Category": "humor"
+  },
+  {
+    "Quote": "So many books, so little time.",
+    "Author": "Frank Zappa",
+    "Tags": ["books", "humor "],
+    "Popularity": 0.09506809506809506,
+    "Category": "books"
+  },
+  {
+    "Quote": "You only live once, but if you do it right, once is enough.",
+    "Author": "Mae West",
+    "Tags": ["humor", "life "],
+    "Popularity": 0.08772108772108772,
+    "Category": "life"
+  },
+  {
+    "Quote": "You only live once, but if you do it right, once is enough.",
+    "Author": "Mae West",
+    "Tags": ["humor", "life "],
+    "Popularity": 0.08772108772108772,
+    "Category": "humor"
+  },
+  {
+    "Quote": "Be the change that you wish to see in the world.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["action", "change", "inspirational", "philosophy", "wish "],
+    "Popularity": 0.08524808524808525,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "Be the change that you wish to see in the world.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["action", "change", "inspirational", "philosophy", "wish "],
+    "Popularity": 0.08524808524808525,
+    "Category": "philosophy"
+  },
+  {
+    "Quote":
+      "In three words I can sum up everything I've learned about life: it goes on.",
+    "Author": "Robert Frost",
+    "Tags": ["life "],
+    "Popularity": 0.08117608117608117,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .",
+    "Author": "C.S. Lewis,  The Four Loves",
+    "Tags": ["friendship "],
+    "Popularity": 0.07332207332207333,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+    "Author": "J.K. Rowling,  Harry Potter and the Goblet of Fire",
+    "Tags": ["from-charles-bayard-miliken", "misattributed-j-k-rowling "],
+    "Popularity": 0.07218607218607219,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "Don’t walk in front of me… I may not followDon’t walk behind me… I may not leadWalk beside me… just be my friend",
+    "Author": "Albert Camus",
+    "Tags": ["friends", "friendship", "misattributed-albert-camus "],
+    "Popularity": 0.07155007155007155,
+    "Category": ""
+  },
+  {
+    "Quote": "No one can make you feel inferior without your consent.",
+    "Author": "Eleanor Roosevelt,  This is My Story",
+    "Tags": ["confidence", "inspirational", "wisdom "],
+    "Popularity": 0.06906506906506907,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "No one can make you feel inferior without your consent.",
+    "Author": "Eleanor Roosevelt,  This is My Story",
+    "Tags": ["confidence", "inspirational", "wisdom "],
+    "Popularity": 0.06906506906506907,
+    "Category": "wisdom"
+  },
+  {
+    "Quote": "If you tell the truth, you don't have to remember anything.",
+    "Author": "Mark Twain",
+    "Tags": ["lies", "lying", "memory", "truth "],
+    "Popularity": 0.06795206795206796,
+    "Category": "truth"
+  },
+  {
+    "Quote": "A friend is someone who knows all about you and still loves you.",
+    "Author": "Elbert Hubbard",
+    "Tags": ["friend", "friendship", "knowledge", "love "],
+    "Popularity": 0.0661000661000661,
+    "Category": "love"
+  },
+  {
+    "Quote": "A friend is someone who knows all about you and still loves you.",
+    "Author": "Elbert Hubbard",
+    "Tags": ["friend", "friendship", "knowledge", "love "],
+    "Popularity": 0.0661000661000661,
+    "Category": "knowledge"
+  },
+  {
+    "Quote": "Always forgive your enemies; nothing annoys them so much.",
+    "Author": "Oscar Wilde",
+    "Tags": ["attributed-no-source", "enemies", "forgiveness", "strategy "],
+    "Popularity": 0.061497061497061495,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "Author": "Maya Angelou",
+    "Tags": ["61419 likes "],
+    "Popularity": 0.06141906141906142,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["carpe-diem", "education", "inspirational", "learning "],
+    "Popularity": 0.05958405958405959,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["carpe-diem", "education", "inspirational", "learning "],
+    "Popularity": 0.05958405958405959,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "Author": "Oscar Wilde,  The Happy Prince and Other Stories",
+    "Tags": ["intelligence", "self-deprecation "],
+    "Popularity": 0.05826905826905827,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "Author":
+      "Martin Luther King Jr.,  A Testament of Hope: The Essential Writings and Speeches",
+    "Tags": [
+      "darkness",
+      "drive-out",
+      "hate",
+      "inspirational",
+      "light",
+      "love",
+      "peace "
+    ],
+    "Popularity": 0.05806205806205806,
+    "Category": "love"
+  },
+  {
+    "Quote":
+      "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "Author":
+      "Martin Luther King Jr.,  A Testament of Hope: The Essential Writings and Speeches",
+    "Tags": [
+      "darkness",
+      "drive-out",
+      "hate",
+      "inspirational",
+      "light",
+      "love",
+      "peace "
+    ],
+    "Popularity": 0.05806205806205806,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "To live is the rarest thing in the world. Most people exist, that is all.",
+    "Author": "Oscar Wilde",
+    "Tags": ["life "],
+    "Popularity": 0.058033058033058034,
+    "Category": "life"
+  },
+  {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche,  Twilight of the Idols",
+    "Tags": ["inspirational", "music", "philosophy "],
+    "Popularity": 0.05467605467605468,
+    "Category": "inspiration"
+  },
+  {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche,  Twilight of the Idols",
+    "Tags": ["inspirational", "music", "philosophy "],
+    "Popularity": 0.05467605467605468,
+    "Category": "philosophy"
+  },
+  {
+    "Quote":
+      "Insanity is doing the same thing, over and over again, but expecting different results.",
+    "Author": "Narcotics Anonymous",
+    "Tags": [
+      "humor",
+      "insanity",
+      "life",
+      "misattributed-ben-franklin",
+      "misattributed-mark-twain",
+      "misattributed-to-einstein "
+    ],
+    "Popularity": 0.054046054046054046,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Insanity is doing the same thing, over and over again, but expecting different results.",
+    "Author": "Narcotics Anonymous",
+    "Tags": [
+      "humor",
+      "insanity",
+      "life",
+      "misattributed-ben-franklin",
+      "misattributed-mark-twain",
+      "misattributed-to-einstein "
+    ],
+    "Popularity": 0.054046054046054046,
+    "Category": "humor"
+  },
+  {
+    "Quote":
+      "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "Author": "Ralph Waldo Emerson",
+    "Tags": [
+      "accomplishment",
+      "attributed-no-source",
+      "be-yourself",
+      "conformity",
+      "individuality "
+    ],
+    "Popularity": 0.05383405383405383,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.",
+    "Author": "Marilyn Monroe",
+    "Tags": ["attributed-no-source "],
+    "Popularity": 0.05256605256605257,
+    "Category": ""
+  },
+  {
+    "Quote":
+      "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+    "Author": "H. Jackson Brown Jr.,  P.S. I Love You",
+    "Tags": [
+      "actions",
+      "disappointed",
+      "disappointment",
+      "dream",
+      "dreams",
+      "explore",
+      "misattributed-mark-twain",
+      "sail "
+    ],
+    "Popularity": 0.05128305128305128,
+    "Category": ""
+  },
+  {
+    "Quote": "We accept the love we think we deserve.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": ["inspirational", "love "],
+    "Popularity": 0.0504030504030504,
+    "Category": "love"
+  },
+  {
+    "Quote": "We accept the love we think we deserve.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": ["inspirational", "love "],
+    "Popularity": 0.0504030504030504,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "It is better to be hated for what you are than to be loved for what you are not.",
+    "Author": "André Gide,  Autumn Leaves",
+    "Tags": ["life", "love "],
+    "Popularity": 0.04762504762504763,
+    "Category": "love"
+  },
+  {
+    "Quote":
+      "It is better to be hated for what you are than to be loved for what you are not.",
+    "Author": "André Gide,  Autumn Leaves",
+    "Tags": ["life", "love "],
+    "Popularity": 0.04762504762504763,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+    "Author": "Marilyn Monroe",
+    "Tags": ["attributed-no-source", "be-yourself", "inspirational "],
+    "Popularity": 0.04319004319004319,
+    "Category": "inspiration"
+  },
+  {
+    "Quote":
+      "All that is gold does not glitter,Not all those who wander are lost;The old that is strong does not wither,Deep roots are not reached by the frost.From the ashes a fire shall be woken,A light from the shadows shall spring;Renewed shall be blade that was broken,The crownless again shall be king.",
+    "Author": "J.R.R. Tolkien,  The Fellowship of the Ring",
+    "Tags": [
+      "frost",
+      "glitter",
+      "gold",
+      "lost",
+      "poetry",
+      "roots",
+      "strength",
+      "strong",
+      "wander",
+      "wither "
+    ],
+    "Popularity": 0.043077043077043076,
+    "Category": "poetry"
+  },
+  {
+    "Quote":
+      "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "Author": "Jane Austen,  Northanger Abbey",
+    "Tags": ["aliteracy", "books", "classic", "humor "],
+    "Popularity": 0.04092704092704093,
+    "Category": "humor"
+  },
+  {
+    "Quote":
+      "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "Author": "Jane Austen,  Northanger Abbey",
+    "Tags": ["aliteracy", "books", "classic", "humor "],
+    "Popularity": 0.04092704092704093,
+    "Category": "books"
+  },
+  {
+    "Quote":
+      "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles "
+    ],
+    "Popularity": 0.040579040579040576,
+    "Category": "life"
+  }]

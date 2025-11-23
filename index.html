@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Interactive quote wordcloud - Explore quotes through beautiful visualizations">
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☁️</text></svg>">
+  <title>Quote Cloud - Interactive Quote Explorer</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600&family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/main.css?v=2">
+  <link rel="stylesheet" href="css/wordcloud.css?v=2">
+  <link rel="stylesheet" href="css/quotes.css?v=2">
+  <link rel="stylesheet" href="css/filters.css?v=2">
+</head>
+
+<body>
+  <!-- Loading Screen -->
+  <div id="loading-screen" class="loading-screen">
+    <div class="loading-content">
+      <div class="loading-spinner"></div>
+      <h2>Loading Quote Cloud</h2>
+      <p id="loading-status">Initializing...</p>
+      <div class="loading-bar">
+        <div id="loading-progress" class="loading-progress"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main App Container -->
+  <div id="app" class="app-container" style="display: none;">
+
+    <!-- Top Navigation -->
+    <header class="top-nav">
+      <div class="nav-left">
+        <h1 class="logo">Quote Cloud</h1>
+        <div class="view-mode-toggle">
+          <button id="mode-tags" class="mode-btn active" data-mode="tags">
+            <span class="icon">☁️</span>
+            Tag Cloud
+          </button>
+          <button id="mode-authors" class="mode-btn" data-mode="authors">
+            <span class="icon">✨</span>
+            Authors
+          </button>
+        </div>
+      </div>
+
+      <div class="nav-center">
+        <div id="stats-display" class="stats-display">
+          <span id="quote-count">Loading...</span>
+        </div>
+        <div id="active-filters" class="active-filters"></div>
+      </div>
+
+      <div class="nav-right">
+        <button id="theme-toggle" class="icon-btn" title="Toggle theme">
+          <span class="icon">🌙</span>
+        </button>
+        <button id="settings-btn" class="icon-btn" title="Settings">
+          <span class="icon">⚙️</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+
+      <!-- Left Sidebar - Filters -->
+      <aside id="filter-panel" class="filter-panel">
+        <div class="panel-header">
+          <h2>Filters</h2>
+          <button id="clear-filters" class="btn-text">Clear All</button>
+        </div>
+
+        <div class="filter-section">
+          <h3>Search</h3>
+          <div class="search-box">
+            <input type="text" id="search-input" placeholder="Search quotes, authors, tags..." autocomplete="off">
+            <span class="search-icon">🔍</span>
+          </div>
+        </div>
+
+        <div class="filter-section">
+          <h3>Categories</h3>
+          <div id="category-filters" class="filter-group">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <div class="filter-section">
+          <h3>Authors</h3>
+          <div class="author-search">
+            <input type="text" id="author-search" placeholder="Search authors..." autocomplete="off">
+          </div>
+          <div id="author-filters" class="filter-group scrollable">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <div class="filter-section">
+          <h3>Popularity</h3>
+          <div class="popularity-slider">
+            <input type="range" id="popularity-min" min="0" max="100" value="0" class="slider">
+            <div class="slider-labels">
+              <span id="popularity-min-label">0%</span>
+              <span id="popularity-max-label">100%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-section">
+          <h3>Sort By</h3>
+          <select id="sort-select" class="sort-select">
+            <option value="popularity">Popularity (High to Low)</option>
+            <option value="author">Author (A-Z)</option>
+            <option value="length">Quote Length</option>
+            <option value="random">Random</option>
+          </select>
+        </div>
+      </aside>
+
+      <!-- Center - Wordcloud -->
+      <section class="wordcloud-container">
+        <div id="wordcloud" class="wordcloud">
+          <!-- D3 wordcloud renders here -->
+        </div>
+        <div id="wordcloud-placeholder" class="wordcloud-placeholder">
+          <p>Click a tag or author to explore quotes</p>
+        </div>
+      </section>
+
+      <!-- Right Sidebar - Quote Display -->
+      <aside id="quote-panel" class="quote-panel">
+        <div class="panel-header">
+          <h2 id="quote-panel-title">Quotes</h2>
+          <button id="close-quotes" class="btn-icon">✕</button>
+        </div>
+
+        <div id="quote-list" class="quote-list">
+          <!-- Quotes render here with virtual scrolling -->
+        </div>
+
+        <div id="quote-placeholder" class="quote-placeholder">
+          <div class="placeholder-content">
+            <span class="placeholder-icon">💭</span>
+            <p>Select a tag or search to view quotes</p>
+          </div>
+        </div>
+      </aside>
+
+    </main>
+  </div>
+
+  <!-- Libraries -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.5/build/d3.layout.cloud.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+  <!-- App Scripts -->
+  <script type="module" src="js/app.js?v=21"></script>
+</body>
+
+</html>

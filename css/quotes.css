@@ -1,0 +1,276 @@
+/* ===================================
+   QUOTES.CSS - Quote Display Styles
+   =================================== */
+
+.quote-panel {
+    overflow: hidden;
+}
+
+.quote-list {
+    flex: 1;
+    overflow-y: auto;
+    padding-right: var(--spacing-sm);
+}
+
+.quote-placeholder {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote-placeholder.hidden {
+    display: none;
+}
+
+.placeholder-content {
+    text-align: center;
+    color: var(--text-muted);
+}
+
+.placeholder-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: var(--spacing-md);
+    opacity: 0.5;
+}
+
+/* Quote Card */
+.quote-card {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    padding: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+    transition: all var(--transition-normal);
+    animation: slideIn var(--transition-normal);
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.quote-card:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: var(--accent-primary);
+    transform: translateX(-4px);
+}
+
+.quote-card.category-life {
+    border-left: 3px solid var(--color-life);
+}
+
+.quote-card.category-love {
+    border-left: 3px solid var(--color-love);
+}
+
+.quote-card.category-inspiration {
+    border-left: 3px solid var(--color-inspiration);
+}
+
+.quote-card.category-humor {
+    border-left: 3px solid var(--color-humor);
+}
+
+.quote-card.category-philosophy {
+    border-left: 3px solid var(--color-philosophy);
+}
+
+.quote-card.category-wisdom {
+    border-left: 3px solid var(--color-wisdom);
+}
+
+.quote-card.category-books {
+    border-left: 3px solid var(--color-books);
+}
+
+.quote-card.category-truth {
+    border-left: 3px solid var(--color-truth);
+}
+
+.quote-card.category-default {
+    border-left: 3px solid var(--color-default);
+}
+
+.quote-text {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--text-primary);
+    margin-bottom: var(--spacing-md);
+    font-style: italic;
+}
+
+.quote-text.truncated {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.quote-author {
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-sm);
+}
+
+.quote-author strong {
+    color: var(--accent-primary);
+    font-weight: 600;
+}
+
+.quote-book {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-left: var(--spacing-sm);
+}
+
+.quote-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    margin-bottom: var(--spacing-sm);
+}
+
+.tag {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2px 8px;
+    border-radius: 10px;
+    transition: all var(--transition-fast);
+    cursor: pointer;
+}
+
+.tag:hover {
+    background: var(--accent-primary);
+    color: white;
+}
+
+.quote-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: var(--spacing-md);
+    padding-top: var(--spacing-md);
+    border-top: 1px solid var(--glass-border);
+}
+
+.quote-popularity {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.popularity-bar {
+    width: 80px;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.popularity-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+    border-radius: 2px;
+    transition: width var(--transition-normal);
+}
+
+.quote-category {
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: 12px;
+    text-transform: capitalize;
+}
+
+.quote-category.life {
+    background: var(--color-life);
+    color: white;
+}
+
+.quote-category.love {
+    background: var(--color-love);
+    color: white;
+}
+
+.quote-category.inspiration {
+    background: var(--color-inspiration);
+    color: white;
+}
+
+.quote-category.humor {
+    background: var(--color-humor);
+    color: #000;
+}
+
+.quote-category.philosophy {
+    background: var(--color-philosophy);
+    color: white;
+}
+
+.quote-category.wisdom {
+    background: var(--color-wisdom);
+    color: white;
+}
+
+.quote-category.books {
+    background: var(--color-books);
+    color: white;
+}
+
+.quote-category.truth {
+    background: var(--color-truth);
+    color: white;
+}
+
+.quote-category.default {
+    background: var(--color-default);
+    color: white;
+}
+
+/* Read More Button */
+.read-more {
+    color: var(--accent-primary);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: var(--spacing-sm);
+    display: inline-block;
+    transition: color var(--transition-fast);
+}
+
+.read-more:hover {
+    color: var(--accent-secondary);
+}
+
+/* Empty State */
+.empty-state {
+    text-align: center;
+    padding: var(--spacing-xl);
+    color: var(--text-muted);
+}
+
+.empty-state-icon {
+    font-size: 3rem;
+    margin-bottom: var(--spacing-md);
+    opacity: 0.3;
+}
+
+.empty-state-text {
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
