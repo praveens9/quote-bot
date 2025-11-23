@@ -13,8 +13,8 @@ build/
 chroma_db/
 
 # Generated files
-keywords.json
-stats.json
+# keywords.json
+# stats.json
 
 # IDE
 .vscode/

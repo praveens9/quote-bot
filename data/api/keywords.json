@@ -1,0 +1,4866 @@
+{
+  "arts": [
+    {
+      "word": "art",
+      "count": 916,
+      "impact": 0.42
+    },
+    {
+      "word": "life",
+      "count": 92,
+      "impact": 0.301
+    },
+    {
+      "word": "work",
+      "count": 91,
+      "impact": 0.261
+    },
+    {
+      "word": "artist",
+      "count": 118,
+      "impact": 0.243
+    },
+    {
+      "word": "good",
+      "count": 54,
+      "impact": 0.177
+    },
+    {
+      "word": "great",
+      "count": 62,
+      "impact": 0.17
+    },
+    {
+      "word": "nature",
+      "count": 49,
+      "impact": 0.17
+    },
+    {
+      "word": "love",
+      "count": 55,
+      "impact": 0.167
+    },
+    {
+      "word": "music",
+      "count": 48,
+      "impact": 0.152
+    },
+    {
+      "word": "ve",
+      "count": 470,
+      "impact": 0.145
+    },
+    {
+      "word": "time",
+      "count": 43,
+      "impact": 0.119
+    },
+    {
+      "word": "science",
+      "count": 34,
+      "impact": 0.112
+    },
+    {
+      "word": "beauty",
+      "count": 32,
+      "impact": 0.11
+    },
+    {
+      "word": "painting",
+      "count": 38,
+      "impact": 0.104
+    },
+    {
+      "word": "beautiful",
+      "count": 27,
+      "impact": 0.083
+    },
+    {
+      "word": "god",
+      "count": 26,
+      "impact": 0.073
+    },
+    {
+      "word": "soul",
+      "count": 29,
+      "impact": 0.071
+    },
+    {
+      "word": "artists",
+      "count": 28,
+      "impact": 0.069
+    },
+    {
+      "word": "best",
+      "count": 19,
+      "impact": 0.06
+    },
+    {
+      "word": "money",
+      "count": 17,
+      "impact": 0.06
+    },
+    {
+      "word": "thing",
+      "count": 153,
+      "impact": 0.053
+    },
+    {
+      "word": "men",
+      "count": 92,
+      "impact": 0.052
+    },
+    {
+      "word": "paint",
+      "count": 68,
+      "impact": 0.052
+    },
+    {
+      "word": "man",
+      "count": 136,
+      "impact": 0.05
+    },
+    {
+      "word": "power",
+      "count": 18,
+      "impact": 0.048
+    },
+    {
+      "word": "arts",
+      "count": 18,
+      "impact": 0.045
+    },
+    {
+      "word": "truth",
+      "count": 14,
+      "impact": 0.044
+    },
+    {
+      "word": "food",
+      "count": 13,
+      "impact": 0.043
+    },
+    {
+      "word": "pain",
+      "count": 76,
+      "impact": 0.041
+    },
+    {
+      "word": "experience",
+      "count": 18,
+      "impact": 0.041
+    }
+  ],
+  "books": [
+    {
+      "word": "books",
+      "count": 816,
+      "impact": 0.666
+    },
+    {
+      "word": "reading",
+      "count": 369,
+      "impact": 0.456
+    },
+    {
+      "word": "book",
+      "count": 611,
+      "impact": 0.354
+    },
+    {
+      "word": "literature",
+      "count": 91,
+      "impact": 0.3
+    },
+    {
+      "word": "words",
+      "count": 88,
+      "impact": 0.242
+    },
+    {
+      "word": "ve",
+      "count": 457,
+      "impact": 0.172
+    },
+    {
+      "word": "library",
+      "count": 64,
+      "impact": 0.161
+    },
+    {
+      "word": "read",
+      "count": 276,
+      "impact": 0.155
+    },
+    {
+      "word": "ll",
+      "count": 321,
+      "impact": 0.123
+    },
+    {
+      "word": "life",
+      "count": 80,
+      "impact": 0.085
+    },
+    {
+      "word": "libraries",
+      "count": 28,
+      "impact": 0.077
+    },
+    {
+      "word": "censorship",
+      "count": 22,
+      "impact": 0.071
+    },
+    {
+      "word": "humor",
+      "count": 21,
+      "impact": 0.071
+    },
+    {
+      "word": "like",
+      "count": 111,
+      "impact": 0.062
+    },
+    {
+      "word": "people",
+      "count": 63,
+      "impact": 0.058
+    },
+    {
+      "word": "time",
+      "count": 87,
+      "impact": 0.055
+    },
+    {
+      "word": "love",
+      "count": 58,
+      "impact": 0.053
+    },
+    {
+      "word": "friends",
+      "count": 34,
+      "impact": 0.05
+    },
+    {
+      "word": "thing",
+      "count": 118,
+      "impact": 0.049
+    },
+    {
+      "word": "readers",
+      "count": 18,
+      "impact": 0.046
+    },
+    {
+      "word": "stories",
+      "count": 18,
+      "impact": 0.043
+    },
+    {
+      "word": "end",
+      "count": 97,
+      "impact": 0.042
+    },
+    {
+      "word": "good",
+      "count": 72,
+      "impact": 0.041
+    },
+    {
+      "word": "way",
+      "count": 88,
+      "impact": 0.039
+    },
+    {
+      "word": "reader",
+      "count": 36,
+      "impact": 0.039
+    },
+    {
+      "word": "world",
+      "count": 66,
+      "impact": 0.038
+    },
+    {
+      "word": "man",
+      "count": 82,
+      "impact": 0.037
+    },
+    {
+      "word": "ideas",
+      "count": 12,
+      "impact": 0.034
+    },
+    {
+      "word": "reading-books",
+      "count": 10,
+      "impact": 0.034
+    },
+    {
+      "word": "art",
+      "count": 60,
+      "impact": 0.031
+    }
+  ],
+  "death": [
+    {
+      "word": "death",
+      "count": 731,
+      "impact": 0.651
+    },
+    {
+      "word": "life",
+      "count": 174,
+      "impact": 0.397
+    },
+    {
+      "word": "love",
+      "count": 97,
+      "impact": 0.245
+    },
+    {
+      "word": "ve",
+      "count": 442,
+      "impact": 0.185
+    },
+    {
+      "word": "ll",
+      "count": 358,
+      "impact": 0.155
+    },
+    {
+      "word": "die",
+      "count": 171,
+      "impact": 0.116
+    },
+    {
+      "word": "loss",
+      "count": 36,
+      "impact": 0.115
+    },
+    {
+      "word": "humor",
+      "count": 33,
+      "impact": 0.113
+    },
+    {
+      "word": "grief",
+      "count": 33,
+      "impact": 0.107
+    },
+    {
+      "word": "time",
+      "count": 86,
+      "impact": 0.093
+    },
+    {
+      "word": "dead",
+      "count": 82,
+      "impact": 0.083
+    },
+    {
+      "word": "suicide",
+      "count": 25,
+      "impact": 0.079
+    },
+    {
+      "word": "war",
+      "count": 53,
+      "impact": 0.071
+    },
+    {
+      "word": "dying",
+      "count": 48,
+      "impact": 0.071
+    },
+    {
+      "word": "thing",
+      "count": 133,
+      "impact": 0.063
+    },
+    {
+      "word": "fear",
+      "count": 29,
+      "impact": 0.056
+    },
+    {
+      "word": "poetry",
+      "count": 15,
+      "impact": 0.051
+    },
+    {
+      "word": "funny",
+      "count": 16,
+      "impact": 0.049
+    },
+    {
+      "word": "living",
+      "count": 34,
+      "impact": 0.048
+    },
+    {
+      "word": "live",
+      "count": 88,
+      "impact": 0.045
+    },
+    {
+      "word": "know",
+      "count": 77,
+      "impact": 0.045
+    },
+    {
+      "word": "like",
+      "count": 72,
+      "impact": 0.045
+    },
+    {
+      "word": "way",
+      "count": 90,
+      "impact": 0.044
+    },
+    {
+      "word": "mourning",
+      "count": 13,
+      "impact": 0.044
+    },
+    {
+      "word": "sad",
+      "count": 24,
+      "impact": 0.043
+    },
+    {
+      "word": "birth",
+      "count": 18,
+      "impact": 0.043
+    },
+    {
+      "word": "end",
+      "count": 80,
+      "impact": 0.042
+    },
+    {
+      "word": "sadness",
+      "count": 15,
+      "impact": 0.042
+    },
+    {
+      "word": "immortality",
+      "count": 12,
+      "impact": 0.041
+    },
+    {
+      "word": "men",
+      "count": 53,
+      "impact": 0.04
+    }
+  ],
+  "education": [
+    {
+      "word": "education",
+      "count": 847,
+      "impact": 0.652
+    },
+    {
+      "word": "learning",
+      "count": 127,
+      "impact": 0.358
+    },
+    {
+      "word": "school",
+      "count": 124,
+      "impact": 0.191
+    },
+    {
+      "word": "children",
+      "count": 81,
+      "impact": 0.165
+    },
+    {
+      "word": "inspirational",
+      "count": 48,
+      "impact": 0.161
+    },
+    {
+      "word": "ve",
+      "count": 436,
+      "impact": 0.158
+    },
+    {
+      "word": "teaching",
+      "count": 56,
+      "impact": 0.146
+    },
+    {
+      "word": "reading",
+      "count": 45,
+      "impact": 0.139
+    },
+    {
+      "word": "homeschooling",
+      "count": 35,
+      "impact": 0.114
+    },
+    {
+      "word": "homeschool",
+      "count": 34,
+      "impact": 0.111
+    },
+    {
+      "word": "life",
+      "count": 80,
+      "impact": 0.109
+    },
+    {
+      "word": "philosophy",
+      "count": 33,
+      "impact": 0.108
+    },
+    {
+      "word": "books",
+      "count": 41,
+      "impact": 0.096
+    },
+    {
+      "word": "debasish-mridha",
+      "count": 27,
+      "impact": 0.091
+    },
+    {
+      "word": "debasish-mridha-m-d",
+      "count": 27,
+      "impact": 0.091
+    },
+    {
+      "word": "quotes",
+      "count": 27,
+      "impact": 0.091
+    },
+    {
+      "word": "humor",
+      "count": 27,
+      "impact": 0.088
+    },
+    {
+      "word": "ignorance",
+      "count": 28,
+      "impact": 0.077
+    },
+    {
+      "word": "knowledge",
+      "count": 48,
+      "impact": 0.073
+    },
+    {
+      "word": "learn",
+      "count": 126,
+      "impact": 0.07
+    },
+    {
+      "word": "teachers",
+      "count": 35,
+      "impact": 0.061
+    },
+    {
+      "word": "intelligence",
+      "count": 22,
+      "impact": 0.056
+    },
+    {
+      "word": "love",
+      "count": 24,
+      "impact": 0.054
+    },
+    {
+      "word": "politics",
+      "count": 16,
+      "impact": 0.054
+    },
+    {
+      "word": "men",
+      "count": 131,
+      "impact": 0.053
+    },
+    {
+      "word": "college",
+      "count": 30,
+      "impact": 0.053
+    },
+    {
+      "word": "science",
+      "count": 20,
+      "impact": 0.052
+    },
+    {
+      "word": "people",
+      "count": 68,
+      "impact": 0.051
+    },
+    {
+      "word": "society",
+      "count": 28,
+      "impact": 0.05
+    },
+    {
+      "word": "world",
+      "count": 70,
+      "impact": 0.048
+    }
+  ],
+  "faith": [
+    {
+      "word": "faith",
+      "count": 793,
+      "impact": 0.665
+    },
+    {
+      "word": "god",
+      "count": 207,
+      "impact": 0.393
+    },
+    {
+      "word": "religion",
+      "count": 97,
+      "impact": 0.322
+    },
+    {
+      "word": "love",
+      "count": 112,
+      "impact": 0.274
+    },
+    {
+      "word": "belief",
+      "count": 76,
+      "impact": 0.211
+    },
+    {
+      "word": "ve",
+      "count": 499,
+      "impact": 0.193
+    },
+    {
+      "word": "life",
+      "count": 106,
+      "impact": 0.187
+    },
+    {
+      "word": "inspirational",
+      "count": 46,
+      "impact": 0.155
+    },
+    {
+      "word": "christianity",
+      "count": 47,
+      "impact": 0.147
+    },
+    {
+      "word": "ll",
+      "count": 353,
+      "impact": 0.137
+    },
+    {
+      "word": "spirituality",
+      "count": 36,
+      "impact": 0.119
+    },
+    {
+      "word": "doubt",
+      "count": 41,
+      "impact": 0.11
+    },
+    {
+      "word": "trust",
+      "count": 45,
+      "impact": 0.1
+    },
+    {
+      "word": "hope",
+      "count": 37,
+      "impact": 0.1
+    },
+    {
+      "word": "reason",
+      "count": 35,
+      "impact": 0.093
+    },
+    {
+      "word": "prayer",
+      "count": 30,
+      "impact": 0.091
+    },
+    {
+      "word": "believe",
+      "count": 97,
+      "impact": 0.089
+    },
+    {
+      "word": "inspiration",
+      "count": 27,
+      "impact": 0.082
+    },
+    {
+      "word": "christian",
+      "count": 42,
+      "impact": 0.08
+    },
+    {
+      "word": "jesus",
+      "count": 33,
+      "impact": 0.08
+    },
+    {
+      "word": "fear",
+      "count": 36,
+      "impact": 0.077
+    },
+    {
+      "word": "science",
+      "count": 24,
+      "impact": 0.072
+    },
+    {
+      "word": "truth",
+      "count": 30,
+      "impact": 0.071
+    },
+    {
+      "word": "thing",
+      "count": 160,
+      "impact": 0.066
+    },
+    {
+      "word": "atheism",
+      "count": 19,
+      "impact": 0.064
+    },
+    {
+      "word": "heart",
+      "count": 47,
+      "impact": 0.063
+    },
+    {
+      "word": "success",
+      "count": 23,
+      "impact": 0.063
+    },
+    {
+      "word": "will",
+      "count": 114,
+      "impact": 0.058
+    },
+    {
+      "word": "man",
+      "count": 101,
+      "impact": 0.057
+    },
+    {
+      "word": "courage",
+      "count": 20,
+      "impact": 0.053
+    }
+  ],
+  "friendship": [
+    {
+      "word": "friend",
+      "count": 587,
+      "impact": 0.517
+    },
+    {
+      "word": "friendship",
+      "count": 494,
+      "impact": 0.424
+    },
+    {
+      "word": "love",
+      "count": 100,
+      "impact": 0.309
+    },
+    {
+      "word": "friends",
+      "count": 532,
+      "impact": 0.301
+    },
+    {
+      "word": "end",
+      "count": 588,
+      "impact": 0.3
+    },
+    {
+      "word": "ve",
+      "count": 352,
+      "impact": 0.185
+    },
+    {
+      "word": "life",
+      "count": 53,
+      "impact": 0.173
+    },
+    {
+      "word": "time",
+      "count": 55,
+      "impact": 0.147
+    },
+    {
+      "word": "true",
+      "count": 35,
+      "impact": 0.104
+    },
+    {
+      "word": "good",
+      "count": 31,
+      "impact": 0.104
+    },
+    {
+      "word": "best",
+      "count": 22,
+      "impact": 0.084
+    },
+    {
+      "word": "men",
+      "count": 58,
+      "impact": 0.073
+    },
+    {
+      "word": "family",
+      "count": 18,
+      "impact": 0.07
+    },
+    {
+      "word": "great",
+      "count": 26,
+      "impact": 0.066
+    },
+    {
+      "word": "like",
+      "count": 69,
+      "impact": 0.053
+    },
+    {
+      "word": "thing",
+      "count": 96,
+      "impact": 0.052
+    },
+    {
+      "word": "people",
+      "count": 63,
+      "impact": 0.05
+    },
+    {
+      "word": "women",
+      "count": 13,
+      "impact": 0.047
+    },
+    {
+      "word": "man",
+      "count": 75,
+      "impact": 0.046
+    },
+    {
+      "word": "marriage",
+      "count": 14,
+      "impact": 0.045
+    },
+    {
+      "word": "peace",
+      "count": 12,
+      "impact": 0.045
+    },
+    {
+      "word": "work",
+      "count": 23,
+      "impact": 0.042
+    },
+    {
+      "word": "heart",
+      "count": 14,
+      "impact": 0.042
+    },
+    {
+      "word": "respect",
+      "count": 14,
+      "impact": 0.041
+    },
+    {
+      "word": "business",
+      "count": 11,
+      "impact": 0.04
+    },
+    {
+      "word": "way",
+      "count": 59,
+      "impact": 0.038
+    },
+    {
+      "word": "art",
+      "count": 53,
+      "impact": 0.036
+    },
+    {
+      "word": "happiness",
+      "count": 11,
+      "impact": 0.034
+    },
+    {
+      "word": "trust",
+      "count": 11,
+      "impact": 0.033
+    },
+    {
+      "word": "self",
+      "count": 31,
+      "impact": 0.032
+    }
+  ],
+  "funny": [
+    {
+      "word": "funny",
+      "count": 559,
+      "impact": 0.604
+    },
+    {
+      "word": "humor",
+      "count": 106,
+      "impact": 0.357
+    },
+    {
+      "word": "love",
+      "count": 71,
+      "impact": 0.208
+    },
+    {
+      "word": "ve",
+      "count": 299,
+      "impact": 0.17
+    },
+    {
+      "word": "ll",
+      "count": 243,
+      "impact": 0.142
+    },
+    {
+      "word": "absurd",
+      "count": 26,
+      "impact": 0.092
+    },
+    {
+      "word": "humour",
+      "count": 22,
+      "impact": 0.078
+    },
+    {
+      "word": "like",
+      "count": 89,
+      "impact": 0.074
+    },
+    {
+      "word": "just",
+      "count": 80,
+      "impact": 0.066
+    },
+    {
+      "word": "don",
+      "count": 63,
+      "impact": 0.054
+    },
+    {
+      "word": "strange",
+      "count": 17,
+      "impact": 0.051
+    },
+    {
+      "word": "said",
+      "count": 58,
+      "impact": 0.05
+    },
+    {
+      "word": "want",
+      "count": 59,
+      "impact": 0.048
+    },
+    {
+      "word": "time",
+      "count": 44,
+      "impact": 0.047
+    },
+    {
+      "word": "way",
+      "count": 66,
+      "impact": 0.046
+    },
+    {
+      "word": "thing",
+      "count": 68,
+      "impact": 0.042
+    },
+    {
+      "word": "know",
+      "count": 52,
+      "impact": 0.041
+    },
+    {
+      "word": "daemon",
+      "count": 11,
+      "impact": 0.036
+    },
+    {
+      "word": "sex",
+      "count": 15,
+      "impact": 0.035
+    },
+    {
+      "word": "say",
+      "count": 45,
+      "impact": 0.034
+    },
+    {
+      "word": "did",
+      "count": 45,
+      "impact": 0.032
+    },
+    {
+      "word": "katy",
+      "count": 9,
+      "impact": 0.032
+    },
+    {
+      "word": "surreal",
+      "count": 9,
+      "impact": 0.032
+    },
+    {
+      "word": "bizarre",
+      "count": 9,
+      "impact": 0.032
+    },
+    {
+      "word": "man",
+      "count": 44,
+      "impact": 0.031
+    },
+    {
+      "word": "look",
+      "count": 41,
+      "impact": 0.031
+    },
+    {
+      "word": "think",
+      "count": 39,
+      "impact": 0.031
+    },
+    {
+      "word": "people",
+      "count": 35,
+      "impact": 0.031
+    },
+    {
+      "word": "going",
+      "count": 36,
+      "impact": 0.03
+    },
+    {
+      "word": "advice",
+      "count": 9,
+      "impact": 0.029
+    }
+  ],
+  "god": [
+    {
+      "word": "god",
+      "count": 787,
+      "impact": 0.693
+    },
+    {
+      "word": "religion",
+      "count": 157,
+      "impact": 0.364
+    },
+    {
+      "word": "love",
+      "count": 122,
+      "impact": 0.307
+    },
+    {
+      "word": "life",
+      "count": 104,
+      "impact": 0.229
+    },
+    {
+      "word": "ve",
+      "count": 486,
+      "impact": 0.19
+    },
+    {
+      "word": "faith",
+      "count": 59,
+      "impact": 0.188
+    },
+    {
+      "word": "christianity",
+      "count": 54,
+      "impact": 0.183
+    },
+    {
+      "word": "atheism",
+      "count": 42,
+      "impact": 0.142
+    },
+    {
+      "word": "inspirational",
+      "count": 37,
+      "impact": 0.125
+    },
+    {
+      "word": "prayer",
+      "count": 38,
+      "impact": 0.119
+    },
+    {
+      "word": "man",
+      "count": 136,
+      "impact": 0.116
+    },
+    {
+      "word": "spirituality",
+      "count": 35,
+      "impact": 0.112
+    },
+    {
+      "word": "jesus",
+      "count": 34,
+      "impact": 0.089
+    },
+    {
+      "word": "bible",
+      "count": 29,
+      "impact": 0.089
+    },
+    {
+      "word": "heaven",
+      "count": 28,
+      "impact": 0.069
+    },
+    {
+      "word": "humor",
+      "count": 21,
+      "impact": 0.068
+    },
+    {
+      "word": "heart",
+      "count": 58,
+      "impact": 0.066
+    },
+    {
+      "word": "world",
+      "count": 50,
+      "impact": 0.06
+    },
+    {
+      "word": "thing",
+      "count": 140,
+      "impact": 0.058
+    },
+    {
+      "word": "devil",
+      "count": 19,
+      "impact": 0.058
+    },
+    {
+      "word": "art",
+      "count": 118,
+      "impact": 0.057
+    },
+    {
+      "word": "truth",
+      "count": 28,
+      "impact": 0.057
+    },
+    {
+      "word": "men",
+      "count": 81,
+      "impact": 0.056
+    },
+    {
+      "word": "christ",
+      "count": 34,
+      "impact": 0.056
+    },
+    {
+      "word": "peace",
+      "count": 25,
+      "impact": 0.056
+    },
+    {
+      "word": "atheist",
+      "count": 21,
+      "impact": 0.056
+    },
+    {
+      "word": "good",
+      "count": 47,
+      "impact": 0.055
+    },
+    {
+      "word": "belief",
+      "count": 19,
+      "impact": 0.055
+    },
+    {
+      "word": "christian",
+      "count": 25,
+      "impact": 0.052
+    },
+    {
+      "word": "science",
+      "count": 20,
+      "impact": 0.05
+    }
+  ],
+  "happiness": [
+    {
+      "word": "happiness",
+      "count": 847,
+      "impact": 0.665
+    },
+    {
+      "word": "life",
+      "count": 191,
+      "impact": 0.39
+    },
+    {
+      "word": "love",
+      "count": 102,
+      "impact": 0.299
+    },
+    {
+      "word": "happy",
+      "count": 236,
+      "impact": 0.269
+    },
+    {
+      "word": "inspirational",
+      "count": 72,
+      "impact": 0.242
+    },
+    {
+      "word": "success",
+      "count": 60,
+      "impact": 0.198
+    },
+    {
+      "word": "ve",
+      "count": 455,
+      "impact": 0.166
+    },
+    {
+      "word": "joy",
+      "count": 77,
+      "impact": 0.151
+    },
+    {
+      "word": "ll",
+      "count": 296,
+      "impact": 0.11
+    },
+    {
+      "word": "money",
+      "count": 28,
+      "impact": 0.087
+    },
+    {
+      "word": "spirituality",
+      "count": 26,
+      "impact": 0.087
+    },
+    {
+      "word": "sadness",
+      "count": 27,
+      "impact": 0.085
+    },
+    {
+      "word": "self-help",
+      "count": 25,
+      "impact": 0.084
+    },
+    {
+      "word": "motivational",
+      "count": 24,
+      "impact": 0.081
+    },
+    {
+      "word": "positivity",
+      "count": 23,
+      "impact": 0.077
+    },
+    {
+      "word": "peace",
+      "count": 24,
+      "impact": 0.075
+    },
+    {
+      "word": "law-of-attraction",
+      "count": 22,
+      "impact": 0.074
+    },
+    {
+      "word": "focus",
+      "count": 24,
+      "impact": 0.072
+    },
+    {
+      "word": "opportunity",
+      "count": 23,
+      "impact": 0.071
+    },
+    {
+      "word": "abundance-creation",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "self-belief",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "self-growth",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "self-motivation",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "self-realization",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "wealth-creation",
+      "count": 21,
+      "impact": 0.07
+    },
+    {
+      "word": "people",
+      "count": 85,
+      "impact": 0.069
+    },
+    {
+      "word": "manifestation",
+      "count": 21,
+      "impact": 0.067
+    },
+    {
+      "word": "cosmic-ordering",
+      "count": 20,
+      "impact": 0.067
+    },
+    {
+      "word": "goal-setting",
+      "count": 20,
+      "impact": 0.067
+    },
+    {
+      "word": "life-changing",
+      "count": 20,
+      "impact": 0.067
+    }
+  ],
+  "hope": [
+    {
+      "word": "hope",
+      "count": 1810,
+      "impact": 0.683
+    },
+    {
+      "word": "life",
+      "count": 268,
+      "impact": 0.363
+    },
+    {
+      "word": "love",
+      "count": 249,
+      "impact": 0.357
+    },
+    {
+      "word": "inspirational",
+      "count": 110,
+      "impact": 0.318
+    },
+    {
+      "word": "faith",
+      "count": 94,
+      "impact": 0.269
+    },
+    {
+      "word": "god",
+      "count": 110,
+      "impact": 0.251
+    },
+    {
+      "word": "time",
+      "count": 167,
+      "impact": 0.242
+    },
+    {
+      "word": "good",
+      "count": 115,
+      "impact": 0.228
+    },
+    {
+      "word": "future",
+      "count": 85,
+      "impact": 0.22
+    },
+    {
+      "word": "ve",
+      "count": 1134,
+      "impact": 0.195
+    },
+    {
+      "word": "work",
+      "count": 79,
+      "impact": 0.176
+    },
+    {
+      "word": "inspiration",
+      "count": 55,
+      "impact": 0.156
+    },
+    {
+      "word": "ll",
+      "count": 852,
+      "impact": 0.146
+    },
+    {
+      "word": "change",
+      "count": 64,
+      "impact": 0.146
+    },
+    {
+      "word": "poetry",
+      "count": 44,
+      "impact": 0.139
+    },
+    {
+      "word": "art",
+      "count": 219,
+      "impact": 0.135
+    },
+    {
+      "word": "best",
+      "count": 64,
+      "impact": 0.135
+    },
+    {
+      "word": "great",
+      "count": 82,
+      "impact": 0.128
+    },
+    {
+      "word": "fear",
+      "count": 55,
+      "impact": 0.126
+    },
+    {
+      "word": "despair",
+      "count": 60,
+      "impact": 0.121
+    },
+    {
+      "word": "peace",
+      "count": 40,
+      "impact": 0.118
+    },
+    {
+      "word": "soul",
+      "count": 65,
+      "impact": 0.117
+    },
+    {
+      "word": "death",
+      "count": 47,
+      "impact": 0.117
+    },
+    {
+      "word": "dreams",
+      "count": 45,
+      "impact": 0.116
+    },
+    {
+      "word": "learning",
+      "count": 36,
+      "impact": 0.108
+    },
+    {
+      "word": "relationships",
+      "count": 37,
+      "impact": 0.105
+    },
+    {
+      "word": "prayer",
+      "count": 41,
+      "impact": 0.103
+    },
+    {
+      "word": "wish",
+      "count": 49,
+      "impact": 0.101
+    },
+    {
+      "word": "destiny",
+      "count": 32,
+      "impact": 0.101
+    },
+    {
+      "word": "courage",
+      "count": 45,
+      "impact": 0.098
+    }
+  ],
+  "humor": [
+    {
+      "word": "humor",
+      "count": 3150,
+      "impact": 0.639
+    },
+    {
+      "word": "funny",
+      "count": 332,
+      "impact": 0.338
+    },
+    {
+      "word": "word-junkies",
+      "count": 197,
+      "impact": 0.319
+    },
+    {
+      "word": "absurd",
+      "count": 114,
+      "impact": 0.311
+    },
+    {
+      "word": "good",
+      "count": 177,
+      "impact": 0.258
+    },
+    {
+      "word": "life",
+      "count": 148,
+      "impact": 0.255
+    },
+    {
+      "word": "love",
+      "count": 170,
+      "impact": 0.244
+    },
+    {
+      "word": "time",
+      "count": 280,
+      "impact": 0.217
+    },
+    {
+      "word": "great",
+      "count": 118,
+      "impact": 0.207
+    },
+    {
+      "word": "relationships",
+      "count": 63,
+      "impact": 0.189
+    },
+    {
+      "word": "ve",
+      "count": 1738,
+      "impact": 0.174
+    },
+    {
+      "word": "sarcasm",
+      "count": 55,
+      "impact": 0.161
+    },
+    {
+      "word": "women",
+      "count": 66,
+      "impact": 0.16
+    },
+    {
+      "word": "politics",
+      "count": 51,
+      "impact": 0.158
+    },
+    {
+      "word": "fun",
+      "count": 192,
+      "impact": 0.157
+    },
+    {
+      "word": "family",
+      "count": 59,
+      "impact": 0.155
+    },
+    {
+      "word": "work",
+      "count": 118,
+      "impact": 0.153
+    },
+    {
+      "word": "wit",
+      "count": 599,
+      "impact": 0.144
+    },
+    {
+      "word": "ll",
+      "count": 1393,
+      "impact": 0.141
+    },
+    {
+      "word": "men",
+      "count": 246,
+      "impact": 0.132
+    },
+    {
+      "word": "laugh",
+      "count": 132,
+      "impact": 0.131
+    },
+    {
+      "word": "books",
+      "count": 64,
+      "impact": 0.129
+    },
+    {
+      "word": "food",
+      "count": 53,
+      "impact": 0.128
+    },
+    {
+      "word": "comedy",
+      "count": 51,
+      "impact": 0.128
+    },
+    {
+      "word": "writing",
+      "count": 64,
+      "impact": 0.123
+    },
+    {
+      "word": "truth",
+      "count": 47,
+      "impact": 0.115
+    },
+    {
+      "word": "death",
+      "count": 53,
+      "impact": 0.113
+    },
+    {
+      "word": "romance",
+      "count": 37,
+      "impact": 0.111
+    },
+    {
+      "word": "surreal",
+      "count": 37,
+      "impact": 0.108
+    },
+    {
+      "word": "people",
+      "count": 308,
+      "impact": 0.103
+    }
+  ],
+  "inspiration": [
+    {
+      "word": "inspirational",
+      "count": 2450,
+      "impact": 0.482
+    },
+    {
+      "word": "inspiration",
+      "count": 934,
+      "impact": 0.37
+    },
+    {
+      "word": "inspirational-quotes",
+      "count": 954,
+      "impact": 0.368
+    },
+    {
+      "word": "life",
+      "count": 623,
+      "impact": 0.366
+    },
+    {
+      "word": "love",
+      "count": 394,
+      "impact": 0.342
+    },
+    {
+      "word": "success",
+      "count": 146,
+      "impact": 0.313
+    },
+    {
+      "word": "motivational",
+      "count": 102,
+      "impact": 0.307
+    },
+    {
+      "word": "quote-of-the-day",
+      "count": 98,
+      "impact": 0.301
+    },
+    {
+      "word": "truth",
+      "count": 148,
+      "impact": 0.3
+    },
+    {
+      "word": "writing",
+      "count": 106,
+      "impact": 0.29
+    },
+    {
+      "word": "happiness",
+      "count": 134,
+      "impact": 0.284
+    },
+    {
+      "word": "quote-about-life",
+      "count": 92,
+      "impact": 0.283
+    },
+    {
+      "word": "amy-leigh-mercree",
+      "count": 91,
+      "impact": 0.28
+    },
+    {
+      "word": "quote-of-the-week",
+      "count": 91,
+      "impact": 0.28
+    },
+    {
+      "word": "quotes-de-la-vida",
+      "count": 91,
+      "impact": 0.28
+    },
+    {
+      "word": "quotes-for-instagram",
+      "count": 91,
+      "impact": 0.28
+    },
+    {
+      "word": "quotes-tumblr",
+      "count": 91,
+      "impact": 0.28
+    },
+    {
+      "word": "quotes-twitter",
+      "count": 90,
+      "impact": 0.276
+    },
+    {
+      "word": "motivation",
+      "count": 89,
+      "impact": 0.261
+    },
+    {
+      "word": "wisdom",
+      "count": 101,
+      "impact": 0.259
+    },
+    {
+      "word": "amy-leigh-mercree-quotes",
+      "count": 84,
+      "impact": 0.258
+    },
+    {
+      "word": "humor",
+      "count": 84,
+      "impact": 0.249
+    },
+    {
+      "word": "god",
+      "count": 205,
+      "impact": 0.205
+    },
+    {
+      "word": "motivational-quotes",
+      "count": 65,
+      "impact": 0.2
+    },
+    {
+      "word": "inspirational-life",
+      "count": 60,
+      "impact": 0.184
+    },
+    {
+      "word": "life-lessons",
+      "count": 60,
+      "impact": 0.184
+    },
+    {
+      "word": "ve",
+      "count": 2352,
+      "impact": 0.174
+    },
+    {
+      "word": "dreams",
+      "count": 101,
+      "impact": 0.173
+    },
+    {
+      "word": "hope",
+      "count": 110,
+      "impact": 0.17
+    },
+    {
+      "word": "art",
+      "count": 482,
+      "impact": 0.167
+    }
+  ],
+  "knowledge": [
+    {
+      "word": "knowledge",
+      "count": 644,
+      "impact": 0.671
+    },
+    {
+      "word": "know",
+      "count": 458,
+      "impact": 0.255
+    },
+    {
+      "word": "wisdom",
+      "count": 72,
+      "impact": 0.239
+    },
+    {
+      "word": "ignorance",
+      "count": 56,
+      "impact": 0.178
+    },
+    {
+      "word": "understanding",
+      "count": 49,
+      "impact": 0.144
+    },
+    {
+      "word": "learning",
+      "count": 44,
+      "impact": 0.144
+    },
+    {
+      "word": "science",
+      "count": 44,
+      "impact": 0.136
+    },
+    {
+      "word": "life",
+      "count": 57,
+      "impact": 0.13
+    },
+    {
+      "word": "truth",
+      "count": 42,
+      "impact": 0.126
+    },
+    {
+      "word": "ll",
+      "count": 258,
+      "impact": 0.123
+    },
+    {
+      "word": "books",
+      "count": 37,
+      "impact": 0.118
+    },
+    {
+      "word": "education",
+      "count": 35,
+      "impact": 0.115
+    },
+    {
+      "word": "power",
+      "count": 35,
+      "impact": 0.088
+    },
+    {
+      "word": "thing",
+      "count": 159,
+      "impact": 0.083
+    },
+    {
+      "word": "reading",
+      "count": 24,
+      "impact": 0.077
+    },
+    {
+      "word": "love",
+      "count": 31,
+      "impact": 0.076
+    },
+    {
+      "word": "man",
+      "count": 90,
+      "impact": 0.061
+    },
+    {
+      "word": "la",
+      "count": 124,
+      "impact": 0.06
+    },
+    {
+      "word": "humor",
+      "count": 16,
+      "impact": 0.055
+    },
+    {
+      "word": "people",
+      "count": 44,
+      "impact": 0.05
+    },
+    {
+      "word": "information",
+      "count": 18,
+      "impact": 0.05
+    },
+    {
+      "word": "mind",
+      "count": 35,
+      "impact": 0.049
+    },
+    {
+      "word": "world",
+      "count": 44,
+      "impact": 0.047
+    },
+    {
+      "word": "way",
+      "count": 62,
+      "impact": 0.046
+    },
+    {
+      "word": "knowing",
+      "count": 40,
+      "impact": 0.045
+    },
+    {
+      "word": "god",
+      "count": 25,
+      "impact": 0.045
+    },
+    {
+      "word": "inspirational",
+      "count": 13,
+      "impact": 0.045
+    },
+    {
+      "word": "self",
+      "count": 47,
+      "impact": 0.043
+    },
+    {
+      "word": "intelligence",
+      "count": 12,
+      "impact": 0.042
+    },
+    {
+      "word": "art",
+      "count": 55,
+      "impact": 0.041
+    }
+  ],
+  "life": [
+    {
+      "word": "life",
+      "count": 3512,
+      "impact": 0.67
+    },
+    {
+      "word": "love",
+      "count": 475,
+      "impact": 0.358
+    },
+    {
+      "word": "time",
+      "count": 375,
+      "impact": 0.342
+    },
+    {
+      "word": "inspirational",
+      "count": 335,
+      "impact": 0.328
+    },
+    {
+      "word": "humor",
+      "count": 304,
+      "impact": 0.326
+    },
+    {
+      "word": "word-junkies",
+      "count": 290,
+      "impact": 0.325
+    },
+    {
+      "word": "death",
+      "count": 190,
+      "impact": 0.321
+    },
+    {
+      "word": "relationships",
+      "count": 211,
+      "impact": 0.318
+    },
+    {
+      "word": "wisdom",
+      "count": 190,
+      "impact": 0.316
+    },
+    {
+      "word": "truth",
+      "count": 145,
+      "impact": 0.315
+    },
+    {
+      "word": "happiness",
+      "count": 119,
+      "impact": 0.314
+    },
+    {
+      "word": "living",
+      "count": 185,
+      "impact": 0.3
+    },
+    {
+      "word": "motivational",
+      "count": 89,
+      "impact": 0.275
+    },
+    {
+      "word": "change",
+      "count": 142,
+      "impact": 0.266
+    },
+    {
+      "word": "funny",
+      "count": 90,
+      "impact": 0.263
+    },
+    {
+      "word": "absurd",
+      "count": 84,
+      "impact": 0.253
+    },
+    {
+      "word": "inspiration",
+      "count": 75,
+      "impact": 0.228
+    },
+    {
+      "word": "success",
+      "count": 98,
+      "impact": 0.227
+    },
+    {
+      "word": "people",
+      "count": 364,
+      "impact": 0.219
+    },
+    {
+      "word": "romance",
+      "count": 74,
+      "impact": 0.216
+    },
+    {
+      "word": "god",
+      "count": 109,
+      "impact": 0.213
+    },
+    {
+      "word": "music",
+      "count": 73,
+      "impact": 0.201
+    },
+    {
+      "word": "ve",
+      "count": 2180,
+      "impact": 0.193
+    },
+    {
+      "word": "good",
+      "count": 172,
+      "impact": 0.191
+    },
+    {
+      "word": "philosophy",
+      "count": 59,
+      "impact": 0.176
+    },
+    {
+      "word": "poetry",
+      "count": 59,
+      "impact": 0.176
+    },
+    {
+      "word": "dreams",
+      "count": 67,
+      "impact": 0.174
+    },
+    {
+      "word": "heart",
+      "count": 122,
+      "impact": 0.17
+    },
+    {
+      "word": "beauty",
+      "count": 70,
+      "impact": 0.168
+    },
+    {
+      "word": "romantic",
+      "count": 61,
+      "impact": 0.167
+    }
+  ],
+  "love": [
+    {
+      "word": "love",
+      "count": 3168,
+      "impact": 0.694
+    },
+    {
+      "word": "life",
+      "count": 285,
+      "impact": 0.337
+    },
+    {
+      "word": "humor",
+      "count": 300,
+      "impact": 0.328
+    },
+    {
+      "word": "word-junkies",
+      "count": 285,
+      "impact": 0.327
+    },
+    {
+      "word": "relationships",
+      "count": 218,
+      "impact": 0.32
+    },
+    {
+      "word": "romance",
+      "count": 201,
+      "impact": 0.319
+    },
+    {
+      "word": "funny",
+      "count": 115,
+      "impact": 0.311
+    },
+    {
+      "word": "absurd",
+      "count": 111,
+      "impact": 0.31
+    },
+    {
+      "word": "inspirational",
+      "count": 103,
+      "impact": 0.31
+    },
+    {
+      "word": "heart",
+      "count": 271,
+      "impact": 0.293
+    },
+    {
+      "word": "ve",
+      "count": 2788,
+      "impact": 0.267
+    },
+    {
+      "word": "time",
+      "count": 303,
+      "impact": 0.223
+    },
+    {
+      "word": "friendship",
+      "count": 76,
+      "impact": 0.223
+    },
+    {
+      "word": "poetry",
+      "count": 61,
+      "impact": 0.186
+    },
+    {
+      "word": "truth",
+      "count": 82,
+      "impact": 0.185
+    },
+    {
+      "word": "romantic",
+      "count": 62,
+      "impact": 0.18
+    },
+    {
+      "word": "god",
+      "count": 93,
+      "impact": 0.173
+    },
+    {
+      "word": "women",
+      "count": 65,
+      "impact": 0.165
+    },
+    {
+      "word": "sex",
+      "count": 64,
+      "impact": 0.15
+    },
+    {
+      "word": "death",
+      "count": 60,
+      "impact": 0.15
+    },
+    {
+      "word": "marriage",
+      "count": 49,
+      "impact": 0.149
+    },
+    {
+      "word": "good",
+      "count": 118,
+      "impact": 0.146
+    },
+    {
+      "word": "you",
+      "count": 1430,
+      "impact": 0.143
+    },
+    {
+      "word": "ll",
+      "count": 1377,
+      "impact": 0.138
+    },
+    {
+      "word": "hate",
+      "count": 88,
+      "impact": 0.135
+    },
+    {
+      "word": "heartbreak",
+      "count": 43,
+      "impact": 0.133
+    },
+    {
+      "word": "passion",
+      "count": 64,
+      "impact": 0.129
+    },
+    {
+      "word": "happiness",
+      "count": 60,
+      "impact": 0.129
+    },
+    {
+      "word": "men",
+      "count": 245,
+      "impact": 0.125
+    },
+    {
+      "word": "beauty",
+      "count": 54,
+      "impact": 0.125
+    }
+  ],
+  "mind": [
+    {
+      "word": "mind",
+      "count": 414,
+      "impact": 0.693
+    },
+    {
+      "word": "life",
+      "count": 96,
+      "impact": 0.347
+    },
+    {
+      "word": "humor",
+      "count": 85,
+      "impact": 0.317
+    },
+    {
+      "word": "love",
+      "count": 83,
+      "impact": 0.305
+    },
+    {
+      "word": "truth",
+      "count": 76,
+      "impact": 0.281
+    },
+    {
+      "word": "spirit",
+      "count": 77,
+      "impact": 0.275
+    },
+    {
+      "word": "meditation",
+      "count": 72,
+      "impact": 0.268
+    },
+    {
+      "word": "soul",
+      "count": 72,
+      "impact": 0.266
+    },
+    {
+      "word": "god",
+      "count": 72,
+      "impact": 0.257
+    },
+    {
+      "word": "wisdom",
+      "count": 69,
+      "impact": 0.251
+    },
+    {
+      "word": "death",
+      "count": 67,
+      "impact": 0.25
+    },
+    {
+      "word": "mind-power",
+      "count": 67,
+      "impact": 0.25
+    },
+    {
+      "word": "meaning",
+      "count": 68,
+      "impact": 0.244
+    },
+    {
+      "word": "spiritual-growth",
+      "count": 65,
+      "impact": 0.242
+    },
+    {
+      "word": "poetry",
+      "count": 65,
+      "impact": 0.242
+    },
+    {
+      "word": "faith",
+      "count": 65,
+      "impact": 0.239
+    },
+    {
+      "word": "positive-attitude",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "positive-thinking",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "quote",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "happiness",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "mind-body-spirit",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "relationships",
+      "count": 64,
+      "impact": 0.238
+    },
+    {
+      "word": "hope",
+      "count": 66,
+      "impact": 0.237
+    },
+    {
+      "word": "teachings",
+      "count": 64,
+      "impact": 0.235
+    },
+    {
+      "word": "positive-quotes",
+      "count": 63,
+      "impact": 0.235
+    },
+    {
+      "word": "self-improvement",
+      "count": 63,
+      "impact": 0.235
+    },
+    {
+      "word": "positive-thoughts",
+      "count": 63,
+      "impact": 0.235
+    },
+    {
+      "word": "spiritual-wisdom",
+      "count": 63,
+      "impact": 0.235
+    },
+    {
+      "word": "knowledge",
+      "count": 65,
+      "impact": 0.233
+    },
+    {
+      "word": "master",
+      "count": 65,
+      "impact": 0.233
+    }
+  ],
+  "motivation": [
+    {
+      "word": "motivation",
+      "count": 21,
+      "impact": 0.395
+    },
+    {
+      "word": "work",
+      "count": 4,
+      "impact": 0.105
+    },
+    {
+      "word": "end",
+      "count": 5,
+      "impact": 0.091
+    },
+    {
+      "word": "time",
+      "count": 3,
+      "impact": 0.089
+    },
+    {
+      "word": "people",
+      "count": 4,
+      "impact": 0.085
+    },
+    {
+      "word": "think",
+      "count": 4,
+      "impact": 0.082
+    },
+    {
+      "word": "really",
+      "count": 4,
+      "impact": 0.081
+    },
+    {
+      "word": "doesn",
+      "count": 3,
+      "impact": 0.079
+    },
+    {
+      "word": "love",
+      "count": 3,
+      "impact": 0.078
+    },
+    {
+      "word": "going",
+      "count": 3,
+      "impact": 0.077
+    },
+    {
+      "word": "desire",
+      "count": 3,
+      "impact": 0.068
+    },
+    {
+      "word": "goal",
+      "count": 3,
+      "impact": 0.068
+    },
+    {
+      "word": "don",
+      "count": 3,
+      "impact": 0.067
+    },
+    {
+      "word": "attitude",
+      "count": 2,
+      "impact": 0.059
+    },
+    {
+      "word": "power",
+      "count": 2,
+      "impact": 0.056
+    },
+    {
+      "word": "game",
+      "count": 2,
+      "impact": 0.053
+    },
+    {
+      "word": "needs",
+      "count": 2,
+      "impact": 0.052
+    },
+    {
+      "word": "know",
+      "count": 2,
+      "impact": 0.047
+    },
+    {
+      "word": "comes",
+      "count": 2,
+      "impact": 0.046
+    },
+    {
+      "word": "look",
+      "count": 2,
+      "impact": 0.046
+    },
+    {
+      "word": "purpose",
+      "count": 2,
+      "impact": 0.046
+    },
+    {
+      "word": "truth",
+      "count": 2,
+      "impact": 0.046
+    },
+    {
+      "word": "stories",
+      "count": 2,
+      "impact": 0.044
+    },
+    {
+      "word": "coming",
+      "count": 2,
+      "impact": 0.043
+    },
+    {
+      "word": "commitment",
+      "count": 2,
+      "impact": 0.043
+    },
+    {
+      "word": "good",
+      "count": 2,
+      "impact": 0.042
+    },
+    {
+      "word": "motivated",
+      "count": 2,
+      "impact": 0.041
+    },
+    {
+      "word": "great",
+      "count": 2,
+      "impact": 0.04
+    },
+    {
+      "word": "attain",
+      "count": 2,
+      "impact": 0.036
+    },
+    {
+      "word": "determination",
+      "count": 2,
+      "impact": 0.036
+    }
+  ],
+  "other": [
+    {
+      "word": "ve",
+      "count": 725,
+      "impact": 0.162
+    },
+    {
+      "word": "ll",
+      "count": 521,
+      "impact": 0.118
+    },
+    {
+      "word": "friendship",
+      "count": 32,
+      "impact": 0.1
+    },
+    {
+      "word": "women",
+      "count": 34,
+      "impact": 0.085
+    },
+    {
+      "word": "attributed-no-source",
+      "count": 23,
+      "impact": 0.074
+    },
+    {
+      "word": "thing",
+      "count": 263,
+      "impact": 0.064
+    },
+    {
+      "word": "courage",
+      "count": 28,
+      "impact": 0.064
+    },
+    {
+      "word": "freedom",
+      "count": 25,
+      "impact": 0.059
+    },
+    {
+      "word": "time",
+      "count": 124,
+      "impact": 0.058
+    },
+    {
+      "word": "people",
+      "count": 115,
+      "impact": 0.058
+    },
+    {
+      "word": "world",
+      "count": 85,
+      "impact": 0.053
+    },
+    {
+      "word": "fear",
+      "count": 30,
+      "impact": 0.053
+    },
+    {
+      "word": "jace",
+      "count": 24,
+      "impact": 0.053
+    },
+    {
+      "word": "men",
+      "count": 83,
+      "impact": 0.052
+    },
+    {
+      "word": "dreams",
+      "count": 30,
+      "impact": 0.052
+    },
+    {
+      "word": "wit",
+      "count": 176,
+      "impact": 0.05
+    },
+    {
+      "word": "music",
+      "count": 18,
+      "impact": 0.049
+    },
+    {
+      "word": "loneliness",
+      "count": 17,
+      "impact": 0.049
+    },
+    {
+      "word": "reading",
+      "count": 27,
+      "impact": 0.048
+    },
+    {
+      "word": "individuality",
+      "count": 15,
+      "impact": 0.048
+    },
+    {
+      "word": "strength",
+      "count": 21,
+      "impact": 0.047
+    },
+    {
+      "word": "beauty",
+      "count": 20,
+      "impact": 0.046
+    },
+    {
+      "word": "self-determination",
+      "count": 14,
+      "impact": 0.045
+    },
+    {
+      "word": "don",
+      "count": 126,
+      "impact": 0.043
+    },
+    {
+      "word": "way",
+      "count": 155,
+      "impact": 0.042
+    },
+    {
+      "word": "empowerment",
+      "count": 13,
+      "impact": 0.042
+    },
+    {
+      "word": "life",
+      "count": 112,
+      "impact": 0.04
+    },
+    {
+      "word": "change",
+      "count": 29,
+      "impact": 0.04
+    },
+    {
+      "word": "humour",
+      "count": 12,
+      "impact": 0.039
+    },
+    {
+      "word": "jace-wayland",
+      "count": 12,
+      "impact": 0.039
+    }
+  ],
+  "philosophy": [
+    {
+      "word": "philosophy",
+      "count": 2399,
+      "impact": 0.612
+    },
+    {
+      "word": "life",
+      "count": 723,
+      "impact": 0.411
+    },
+    {
+      "word": "love",
+      "count": 548,
+      "impact": 0.389
+    },
+    {
+      "word": "wisdom",
+      "count": 476,
+      "impact": 0.362
+    },
+    {
+      "word": "truth",
+      "count": 441,
+      "impact": 0.362
+    },
+    {
+      "word": "god",
+      "count": 405,
+      "impact": 0.359
+    },
+    {
+      "word": "mind",
+      "count": 409,
+      "impact": 0.358
+    },
+    {
+      "word": "death",
+      "count": 377,
+      "impact": 0.353
+    },
+    {
+      "word": "knowledge",
+      "count": 386,
+      "impact": 0.352
+    },
+    {
+      "word": "happiness",
+      "count": 377,
+      "impact": 0.352
+    },
+    {
+      "word": "humor",
+      "count": 405,
+      "impact": 0.351
+    },
+    {
+      "word": "inspirational",
+      "count": 404,
+      "impact": 0.351
+    },
+    {
+      "word": "soul",
+      "count": 355,
+      "impact": 0.349
+    },
+    {
+      "word": "poetry",
+      "count": 363,
+      "impact": 0.348
+    },
+    {
+      "word": "faith",
+      "count": 362,
+      "impact": 0.348
+    },
+    {
+      "word": "hope",
+      "count": 370,
+      "impact": 0.346
+    },
+    {
+      "word": "meaning",
+      "count": 334,
+      "impact": 0.342
+    },
+    {
+      "word": "spirit",
+      "count": 334,
+      "impact": 0.342
+    },
+    {
+      "word": "inspirational-quotes",
+      "count": 333,
+      "impact": 0.342
+    },
+    {
+      "word": "relationships",
+      "count": 327,
+      "impact": 0.341
+    },
+    {
+      "word": "purpose",
+      "count": 327,
+      "impact": 0.341
+    },
+    {
+      "word": "quote",
+      "count": 322,
+      "impact": 0.34
+    },
+    {
+      "word": "sage",
+      "count": 319,
+      "impact": 0.34
+    },
+    {
+      "word": "meditation",
+      "count": 317,
+      "impact": 0.34
+    },
+    {
+      "word": "master",
+      "count": 317,
+      "impact": 0.34
+    },
+    {
+      "word": "suicide",
+      "count": 315,
+      "impact": 0.339
+    },
+    {
+      "word": "mind-body-spirit",
+      "count": 314,
+      "impact": 0.339
+    },
+    {
+      "word": "positive-attitude",
+      "count": 314,
+      "impact": 0.339
+    },
+    {
+      "word": "positive-thoughts",
+      "count": 314,
+      "impact": 0.339
+    },
+    {
+      "word": "mind-power",
+      "count": 313,
+      "impact": 0.339
+    }
+  ],
+  "poetry": [
+    {
+      "word": "poetry",
+      "count": 732,
+      "impact": 0.634
+    },
+    {
+      "word": "love",
+      "count": 149,
+      "impact": 0.334
+    },
+    {
+      "word": "ve",
+      "count": 429,
+      "impact": 0.18
+    },
+    {
+      "word": "poet",
+      "count": 165,
+      "impact": 0.136
+    },
+    {
+      "word": "ll",
+      "count": 311,
+      "impact": 0.132
+    },
+    {
+      "word": "life",
+      "count": 65,
+      "impact": 0.128
+    },
+    {
+      "word": "poem",
+      "count": 57,
+      "impact": 0.116
+    },
+    {
+      "word": "writing",
+      "count": 35,
+      "impact": 0.113
+    },
+    {
+      "word": "words",
+      "count": 49,
+      "impact": 0.096
+    },
+    {
+      "word": "art",
+      "count": 116,
+      "impact": 0.094
+    },
+    {
+      "word": "beauty",
+      "count": 30,
+      "impact": 0.078
+    },
+    {
+      "word": "time",
+      "count": 59,
+      "impact": 0.066
+    },
+    {
+      "word": "music",
+      "count": 23,
+      "impact": 0.065
+    },
+    {
+      "word": "nature",
+      "count": 21,
+      "impact": 0.063
+    },
+    {
+      "word": "books",
+      "count": 23,
+      "impact": 0.061
+    },
+    {
+      "word": "poets",
+      "count": 22,
+      "impact": 0.058
+    },
+    {
+      "word": "heart",
+      "count": 60,
+      "impact": 0.055
+    },
+    {
+      "word": "romance",
+      "count": 18,
+      "impact": 0.055
+    },
+    {
+      "word": "dreams",
+      "count": 20,
+      "impact": 0.054
+    },
+    {
+      "word": "beautiful",
+      "count": 25,
+      "impact": 0.051
+    },
+    {
+      "word": "like",
+      "count": 74,
+      "impact": 0.049
+    },
+    {
+      "word": "humor",
+      "count": 14,
+      "impact": 0.048
+    },
+    {
+      "word": "night",
+      "count": 50,
+      "impact": 0.047
+    },
+    {
+      "word": "soul",
+      "count": 34,
+      "impact": 0.047
+    },
+    {
+      "word": "pain",
+      "count": 20,
+      "impact": 0.043
+    },
+    {
+      "word": "relationships",
+      "count": 13,
+      "impact": 0.041
+    },
+    {
+      "word": "lit-on-literature",
+      "count": 12,
+      "impact": 0.041
+    },
+    {
+      "word": "word-junkies",
+      "count": 12,
+      "impact": 0.041
+    },
+    {
+      "word": "light",
+      "count": 40,
+      "impact": 0.04
+    },
+    {
+      "word": "reading",
+      "count": 16,
+      "impact": 0.04
+    }
+  ],
+  "positive": [
+    {
+      "word": "positive-thinking",
+      "count": 260,
+      "impact": 0.6
+    },
+    {
+      "word": "self-improvement",
+      "count": 181,
+      "impact": 0.509
+    },
+    {
+      "word": "mind-body-spirit",
+      "count": 180,
+      "impact": 0.508
+    },
+    {
+      "word": "mind-power",
+      "count": 180,
+      "impact": 0.508
+    },
+    {
+      "word": "money",
+      "count": 103,
+      "impact": 0.422
+    },
+    {
+      "word": "self-help",
+      "count": 105,
+      "impact": 0.421
+    },
+    {
+      "word": "law-of-attraction",
+      "count": 104,
+      "impact": 0.42
+    },
+    {
+      "word": "new-thought",
+      "count": 104,
+      "impact": 0.42
+    },
+    {
+      "word": "wealth",
+      "count": 104,
+      "impact": 0.42
+    },
+    {
+      "word": "wealth-creation",
+      "count": 104,
+      "impact": 0.42
+    },
+    {
+      "word": "new-age",
+      "count": 103,
+      "impact": 0.419
+    },
+    {
+      "word": "self-help-book",
+      "count": 103,
+      "impact": 0.419
+    },
+    {
+      "word": "stephen-richards",
+      "count": 103,
+      "impact": 0.419
+    },
+    {
+      "word": "life",
+      "count": 105,
+      "impact": 0.382
+    },
+    {
+      "word": "happiness",
+      "count": 86,
+      "impact": 0.343
+    },
+    {
+      "word": "mind",
+      "count": 91,
+      "impact": 0.341
+    },
+    {
+      "word": "positive-attitude",
+      "count": 82,
+      "impact": 0.341
+    },
+    {
+      "word": "love",
+      "count": 81,
+      "impact": 0.336
+    },
+    {
+      "word": "spirit",
+      "count": 82,
+      "impact": 0.325
+    },
+    {
+      "word": "hope",
+      "count": 80,
+      "impact": 0.323
+    },
+    {
+      "word": "faith",
+      "count": 80,
+      "impact": 0.322
+    },
+    {
+      "word": "poetry",
+      "count": 76,
+      "impact": 0.322
+    },
+    {
+      "word": "positive-quotes",
+      "count": 77,
+      "impact": 0.32
+    },
+    {
+      "word": "positive-thoughts",
+      "count": 77,
+      "impact": 0.32
+    },
+    {
+      "word": "positive-mindset",
+      "count": 77,
+      "impact": 0.32
+    },
+    {
+      "word": "god",
+      "count": 77,
+      "impact": 0.319
+    },
+    {
+      "word": "knowledge",
+      "count": 79,
+      "impact": 0.316
+    },
+    {
+      "word": "meaning",
+      "count": 77,
+      "impact": 0.316
+    },
+    {
+      "word": "quote",
+      "count": 76,
+      "impact": 0.316
+    },
+    {
+      "word": "personal-development",
+      "count": 76,
+      "impact": 0.316
+    }
+  ],
+  "purpose": [
+    {
+      "word": "purpose",
+      "count": 551,
+      "impact": 0.625
+    },
+    {
+      "word": "life",
+      "count": 425,
+      "impact": 0.554
+    },
+    {
+      "word": "god",
+      "count": 386,
+      "impact": 0.527
+    },
+    {
+      "word": "love",
+      "count": 372,
+      "impact": 0.524
+    },
+    {
+      "word": "poetry",
+      "count": 357,
+      "impact": 0.505
+    },
+    {
+      "word": "meaning",
+      "count": 374,
+      "impact": 0.504
+    },
+    {
+      "word": "happiness",
+      "count": 365,
+      "impact": 0.503
+    },
+    {
+      "word": "mind",
+      "count": 363,
+      "impact": 0.502
+    },
+    {
+      "word": "soul",
+      "count": 362,
+      "impact": 0.5
+    },
+    {
+      "word": "death",
+      "count": 360,
+      "impact": 0.5
+    },
+    {
+      "word": "wisdom",
+      "count": 359,
+      "impact": 0.499
+    },
+    {
+      "word": "mind-body-spirit",
+      "count": 360,
+      "impact": 0.496
+    },
+    {
+      "word": "truth",
+      "count": 359,
+      "impact": 0.495
+    },
+    {
+      "word": "faith",
+      "count": 359,
+      "impact": 0.495
+    },
+    {
+      "word": "spirit",
+      "count": 359,
+      "impact": 0.495
+    },
+    {
+      "word": "positive-thinking",
+      "count": 358,
+      "impact": 0.495
+    },
+    {
+      "word": "hope",
+      "count": 358,
+      "impact": 0.495
+    },
+    {
+      "word": "humor",
+      "count": 357,
+      "impact": 0.494
+    },
+    {
+      "word": "positive-attitude",
+      "count": 357,
+      "impact": 0.494
+    },
+    {
+      "word": "relationships",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "personal-development",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "inspirational-quotes",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "knowledge",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "master",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "quote",
+      "count": 356,
+      "impact": 0.494
+    },
+    {
+      "word": "knowing-oneself",
+      "count": 355,
+      "impact": 0.493
+    },
+    {
+      "word": "knowledge-education",
+      "count": 355,
+      "impact": 0.493
+    },
+    {
+      "word": "knowledge-of-self",
+      "count": 355,
+      "impact": 0.493
+    },
+    {
+      "word": "knowledge-teaching",
+      "count": 355,
+      "impact": 0.493
+    },
+    {
+      "word": "master-key",
+      "count": 355,
+      "impact": 0.493
+    }
+  ],
+  "quotes": [
+    {
+      "word": "quotes",
+      "count": 763,
+      "impact": 0.604
+    },
+    {
+      "word": "inspirational",
+      "count": 479,
+      "impact": 0.488
+    },
+    {
+      "word": "philosophy",
+      "count": 467,
+      "impact": 0.484
+    },
+    {
+      "word": "debasish-mridha",
+      "count": 461,
+      "impact": 0.481
+    },
+    {
+      "word": "debasish-mridha-m-d",
+      "count": 460,
+      "impact": 0.481
+    },
+    {
+      "word": "love",
+      "count": 155,
+      "impact": 0.396
+    },
+    {
+      "word": "life",
+      "count": 153,
+      "impact": 0.282
+    },
+    {
+      "word": "consciousness",
+      "count": 86,
+      "impact": 0.263
+    },
+    {
+      "word": "peace",
+      "count": 94,
+      "impact": 0.258
+    },
+    {
+      "word": "quote",
+      "count": 46,
+      "impact": 0.111
+    },
+    {
+      "word": "success",
+      "count": 28,
+      "impact": 0.095
+    },
+    {
+      "word": "beauty",
+      "count": 46,
+      "impact": 0.094
+    },
+    {
+      "word": "ll",
+      "count": 208,
+      "impact": 0.084
+    },
+    {
+      "word": "joy",
+      "count": 54,
+      "impact": 0.084
+    },
+    {
+      "word": "thoughts",
+      "count": 37,
+      "impact": 0.078
+    },
+    {
+      "word": "kindness",
+      "count": 21,
+      "impact": 0.072
+    },
+    {
+      "word": "happiness",
+      "count": 25,
+      "impact": 0.07
+    },
+    {
+      "word": "wisdom",
+      "count": 23,
+      "impact": 0.07
+    },
+    {
+      "word": "universe",
+      "count": 22,
+      "impact": 0.066
+    },
+    {
+      "word": "mind",
+      "count": 57,
+      "impact": 0.065
+    },
+    {
+      "word": "designer",
+      "count": 19,
+      "impact": 0.061
+    },
+    {
+      "word": "karl-lagerfeld",
+      "count": 18,
+      "impact": 0.061
+    },
+    {
+      "word": "forgiveness",
+      "count": 17,
+      "impact": 0.061
+    },
+    {
+      "word": "heart",
+      "count": 52,
+      "impact": 0.06
+    },
+    {
+      "word": "humor",
+      "count": 19,
+      "impact": 0.058
+    },
+    {
+      "word": "smile",
+      "count": 17,
+      "impact": 0.058
+    },
+    {
+      "word": "fashion",
+      "count": 17,
+      "impact": 0.058
+    },
+    {
+      "word": "conscious",
+      "count": 94,
+      "impact": 0.055
+    },
+    {
+      "word": "art",
+      "count": 83,
+      "impact": 0.054
+    },
+    {
+      "word": "self",
+      "count": 54,
+      "impact": 0.049
+    }
+  ],
+  "relationship": [
+    {
+      "word": "relationships",
+      "count": 512,
+      "impact": 0.614
+    },
+    {
+      "word": "love",
+      "count": 212,
+      "impact": 0.461
+    },
+    {
+      "word": "humor",
+      "count": 72,
+      "impact": 0.258
+    },
+    {
+      "word": "life",
+      "count": 98,
+      "impact": 0.244
+    },
+    {
+      "word": "ve",
+      "count": 340,
+      "impact": 0.205
+    },
+    {
+      "word": "word-junkies",
+      "count": 52,
+      "impact": 0.186
+    },
+    {
+      "word": "marriage",
+      "count": 44,
+      "impact": 0.151
+    },
+    {
+      "word": "ll",
+      "count": 216,
+      "impact": 0.133
+    },
+    {
+      "word": "men",
+      "count": 75,
+      "impact": 0.132
+    },
+    {
+      "word": "romance",
+      "count": 36,
+      "impact": 0.129
+    },
+    {
+      "word": "lit-on-literature",
+      "count": 36,
+      "impact": 0.129
+    },
+    {
+      "word": "women",
+      "count": 35,
+      "impact": 0.108
+    },
+    {
+      "word": "funny",
+      "count": 30,
+      "impact": 0.102
+    },
+    {
+      "word": "sex",
+      "count": 27,
+      "impact": 0.089
+    },
+    {
+      "word": "relationship",
+      "count": 84,
+      "impact": 0.086
+    },
+    {
+      "word": "friendship",
+      "count": 27,
+      "impact": 0.079
+    },
+    {
+      "word": "heart",
+      "count": 35,
+      "impact": 0.078
+    },
+    {
+      "word": "dreams",
+      "count": 24,
+      "impact": 0.077
+    },
+    {
+      "word": "like",
+      "count": 81,
+      "impact": 0.074
+    },
+    {
+      "word": "time",
+      "count": 56,
+      "impact": 0.074
+    },
+    {
+      "word": "breaking-up",
+      "count": 20,
+      "impact": 0.072
+    },
+    {
+      "word": "dreaming",
+      "count": 20,
+      "impact": 0.072
+    },
+    {
+      "word": "sleep",
+      "count": 23,
+      "impact": 0.07
+    },
+    {
+      "word": "sleeping",
+      "count": 21,
+      "impact": 0.069
+    },
+    {
+      "word": "family",
+      "count": 19,
+      "impact": 0.068
+    },
+    {
+      "word": "absurd",
+      "count": 19,
+      "impact": 0.068
+    },
+    {
+      "word": "people",
+      "count": 48,
+      "impact": 0.066
+    },
+    {
+      "word": "divorce",
+      "count": 19,
+      "impact": 0.065
+    },
+    {
+      "word": "man",
+      "count": 73,
+      "impact": 0.064
+    },
+    {
+      "word": "cheating",
+      "count": 17,
+      "impact": 0.061
+    }
+  ],
+  "religion": [
+    {
+      "word": "religion",
+      "count": 568,
+      "impact": 0.642
+    },
+    {
+      "word": "atheism",
+      "count": 62,
+      "impact": 0.217
+    },
+    {
+      "word": "christianity",
+      "count": 62,
+      "impact": 0.21
+    },
+    {
+      "word": "ve",
+      "count": 309,
+      "impact": 0.167
+    },
+    {
+      "word": "ll",
+      "count": 240,
+      "impact": 0.13
+    },
+    {
+      "word": "science",
+      "count": 35,
+      "impact": 0.115
+    },
+    {
+      "word": "humor",
+      "count": 33,
+      "impact": 0.113
+    },
+    {
+      "word": "spirituality",
+      "count": 29,
+      "impact": 0.096
+    },
+    {
+      "word": "life",
+      "count": 56,
+      "impact": 0.088
+    },
+    {
+      "word": "organized-religion",
+      "count": 25,
+      "impact": 0.088
+    },
+    {
+      "word": "god",
+      "count": 105,
+      "impact": 0.083
+    },
+    {
+      "word": "love",
+      "count": 35,
+      "impact": 0.076
+    },
+    {
+      "word": "belief",
+      "count": 32,
+      "impact": 0.072
+    },
+    {
+      "word": "politics",
+      "count": 22,
+      "impact": 0.072
+    },
+    {
+      "word": "man",
+      "count": 98,
+      "impact": 0.065
+    },
+    {
+      "word": "people",
+      "count": 80,
+      "impact": 0.065
+    },
+    {
+      "word": "bible",
+      "count": 22,
+      "impact": 0.06
+    },
+    {
+      "word": "men",
+      "count": 81,
+      "impact": 0.05
+    },
+    {
+      "word": "inspirational",
+      "count": 14,
+      "impact": 0.049
+    },
+    {
+      "word": "christ",
+      "count": 43,
+      "impact": 0.046
+    },
+    {
+      "word": "religious",
+      "count": 43,
+      "impact": 0.046
+    },
+    {
+      "word": "art",
+      "count": 55,
+      "impact": 0.044
+    },
+    {
+      "word": "thing",
+      "count": 74,
+      "impact": 0.043
+    },
+    {
+      "word": "believe",
+      "count": 57,
+      "impact": 0.043
+    },
+    {
+      "word": "skepticism",
+      "count": 12,
+      "impact": 0.042
+    },
+    {
+      "word": "don",
+      "count": 52,
+      "impact": 0.041
+    },
+    {
+      "word": "beliefs",
+      "count": 18,
+      "impact": 0.039
+    },
+    {
+      "word": "humanism",
+      "count": 11,
+      "impact": 0.039
+    },
+    {
+      "word": "know",
+      "count": 55,
+      "impact": 0.038
+    },
+    {
+      "word": "way",
+      "count": 55,
+      "impact": 0.038
+    }
+  ],
+  "romance": [
+    {
+      "word": "romance",
+      "count": 651,
+      "impact": 0.61
+    },
+    {
+      "word": "love",
+      "count": 252,
+      "impact": 0.447
+    },
+    {
+      "word": "humor",
+      "count": 98,
+      "impact": 0.336
+    },
+    {
+      "word": "ve",
+      "count": 414,
+      "impact": 0.201
+    },
+    {
+      "word": "fiction",
+      "count": 52,
+      "impact": 0.18
+    },
+    {
+      "word": "ll",
+      "count": 305,
+      "impact": 0.155
+    },
+    {
+      "word": "vampire",
+      "count": 43,
+      "impact": 0.137
+    },
+    {
+      "word": "paranormal",
+      "count": 33,
+      "impact": 0.114
+    },
+    {
+      "word": "young-adult",
+      "count": 31,
+      "impact": 0.107
+    },
+    {
+      "word": "man",
+      "count": 121,
+      "impact": 0.067
+    },
+    {
+      "word": "funny",
+      "count": 21,
+      "impact": 0.067
+    },
+    {
+      "word": "fantasy",
+      "count": 20,
+      "impact": 0.066
+    },
+    {
+      "word": "like",
+      "count": 88,
+      "impact": 0.062
+    },
+    {
+      "word": "paranormal-romance",
+      "count": 18,
+      "impact": 0.062
+    },
+    {
+      "word": "thing",
+      "count": 114,
+      "impact": 0.058
+    },
+    {
+      "word": "time",
+      "count": 83,
+      "impact": 0.055
+    },
+    {
+      "word": "supernatural",
+      "count": 16,
+      "impact": 0.055
+    },
+    {
+      "word": "way",
+      "count": 94,
+      "impact": 0.053
+    },
+    {
+      "word": "want",
+      "count": 80,
+      "impact": 0.053
+    },
+    {
+      "word": "humour",
+      "count": 15,
+      "impact": 0.052
+    },
+    {
+      "word": "romantic-suspense",
+      "count": 15,
+      "impact": 0.052
+    },
+    {
+      "word": "romantic",
+      "count": 28,
+      "impact": 0.05
+    },
+    {
+      "word": "know",
+      "count": 71,
+      "impact": 0.047
+    },
+    {
+      "word": "heart",
+      "count": 52,
+      "impact": 0.047
+    },
+    {
+      "word": "life",
+      "count": 48,
+      "impact": 0.047
+    },
+    {
+      "word": "kiss",
+      "count": 41,
+      "impact": 0.044
+    },
+    {
+      "word": "men",
+      "count": 60,
+      "impact": 0.042
+    },
+    {
+      "word": "said",
+      "count": 59,
+      "impact": 0.042
+    },
+    {
+      "word": "ya",
+      "count": 24,
+      "impact": 0.041
+    },
+    {
+      "word": "don",
+      "count": 59,
+      "impact": 0.04
+    }
+  ],
+  "science": [
+    {
+      "word": "science",
+      "count": 628,
+      "impact": 0.639
+    },
+    {
+      "word": "humor",
+      "count": 50,
+      "impact": 0.174
+    },
+    {
+      "word": "inspirational",
+      "count": 40,
+      "impact": 0.139
+    },
+    {
+      "word": "ll",
+      "count": 252,
+      "impact": 0.123
+    },
+    {
+      "word": "nature",
+      "count": 43,
+      "impact": 0.12
+    },
+    {
+      "word": "evolution",
+      "count": 38,
+      "impact": 0.113
+    },
+    {
+      "word": "physics",
+      "count": 33,
+      "impact": 0.106
+    },
+    {
+      "word": "art",
+      "count": 85,
+      "impact": 0.103
+    },
+    {
+      "word": "id",
+      "count": 133,
+      "impact": 0.1
+    },
+    {
+      "word": "life",
+      "count": 42,
+      "impact": 0.084
+    },
+    {
+      "word": "biology",
+      "count": 25,
+      "impact": 0.084
+    },
+    {
+      "word": "la",
+      "count": 166,
+      "impact": 0.082
+    },
+    {
+      "word": "universe",
+      "count": 44,
+      "impact": 0.079
+    },
+    {
+      "word": "religion",
+      "count": 29,
+      "impact": 0.077
+    },
+    {
+      "word": "man",
+      "count": 118,
+      "impact": 0.069
+    },
+    {
+      "word": "thing",
+      "count": 126,
+      "impact": 0.065
+    },
+    {
+      "word": "truth",
+      "count": 33,
+      "impact": 0.057
+    },
+    {
+      "word": "time",
+      "count": 51,
+      "impact": 0.055
+    },
+    {
+      "word": "know",
+      "count": 72,
+      "impact": 0.049
+    },
+    {
+      "word": "intelligent-design",
+      "count": 14,
+      "impact": 0.049
+    },
+    {
+      "word": "men",
+      "count": 86,
+      "impact": 0.047
+    },
+    {
+      "word": "world",
+      "count": 52,
+      "impact": 0.047
+    },
+    {
+      "word": "love",
+      "count": 19,
+      "impact": 0.047
+    },
+    {
+      "word": "scientists",
+      "count": 22,
+      "impact": 0.045
+    },
+    {
+      "word": "belief",
+      "count": 18,
+      "impact": 0.045
+    },
+    {
+      "word": "astronomy",
+      "count": 13,
+      "impact": 0.045
+    },
+    {
+      "word": "magic",
+      "count": 16,
+      "impact": 0.044
+    },
+    {
+      "word": "scientific",
+      "count": 37,
+      "impact": 0.043
+    },
+    {
+      "word": "think",
+      "count": 45,
+      "impact": 0.04
+    },
+    {
+      "word": "god",
+      "count": 30,
+      "impact": 0.04
+    }
+  ],
+  "soul": [
+    {
+      "word": "soul",
+      "count": 501,
+      "impact": 0.684
+    },
+    {
+      "word": "love",
+      "count": 142,
+      "impact": 0.402
+    },
+    {
+      "word": "life",
+      "count": 133,
+      "impact": 0.393
+    },
+    {
+      "word": "spirit",
+      "count": 106,
+      "impact": 0.344
+    },
+    {
+      "word": "poetry",
+      "count": 92,
+      "impact": 0.331
+    },
+    {
+      "word": "happiness",
+      "count": 91,
+      "impact": 0.327
+    },
+    {
+      "word": "humor",
+      "count": 86,
+      "impact": 0.309
+    },
+    {
+      "word": "god",
+      "count": 87,
+      "impact": 0.307
+    },
+    {
+      "word": "faith",
+      "count": 88,
+      "impact": 0.305
+    },
+    {
+      "word": "mind",
+      "count": 90,
+      "impact": 0.304
+    },
+    {
+      "word": "meditation",
+      "count": 84,
+      "impact": 0.302
+    },
+    {
+      "word": "death",
+      "count": 85,
+      "impact": 0.299
+    },
+    {
+      "word": "truth",
+      "count": 85,
+      "impact": 0.299
+    },
+    {
+      "word": "wisdom",
+      "count": 83,
+      "impact": 0.296
+    },
+    {
+      "word": "spiritual-growth",
+      "count": 82,
+      "impact": 0.295
+    },
+    {
+      "word": "spiritual-wisdom",
+      "count": 82,
+      "impact": 0.295
+    },
+    {
+      "word": "meaning",
+      "count": 81,
+      "impact": 0.292
+    },
+    {
+      "word": "sacred",
+      "count": 85,
+      "impact": 0.291
+    },
+    {
+      "word": "hope",
+      "count": 82,
+      "impact": 0.286
+    },
+    {
+      "word": "sage",
+      "count": 82,
+      "impact": 0.286
+    },
+    {
+      "word": "relationships",
+      "count": 80,
+      "impact": 0.285
+    },
+    {
+      "word": "quote",
+      "count": 80,
+      "impact": 0.285
+    },
+    {
+      "word": "power-of-thoughts",
+      "count": 79,
+      "impact": 0.284
+    },
+    {
+      "word": "spiritual-development",
+      "count": 79,
+      "impact": 0.284
+    },
+    {
+      "word": "soul-searching",
+      "count": 79,
+      "impact": 0.284
+    },
+    {
+      "word": "sacred-wisdom",
+      "count": 79,
+      "impact": 0.284
+    },
+    {
+      "word": "master",
+      "count": 80,
+      "impact": 0.282
+    },
+    {
+      "word": "knowledge",
+      "count": 79,
+      "impact": 0.281
+    },
+    {
+      "word": "purpose",
+      "count": 79,
+      "impact": 0.281
+    },
+    {
+      "word": "inspirational-quotes",
+      "count": 78,
+      "impact": 0.281
+    }
+  ],
+  "success": [
+    {
+      "word": "success",
+      "count": 1695,
+      "impact": 0.673
+    },
+    {
+      "word": "life",
+      "count": 266,
+      "impact": 0.365
+    },
+    {
+      "word": "failure",
+      "count": 219,
+      "impact": 0.359
+    },
+    {
+      "word": "self-help",
+      "count": 207,
+      "impact": 0.336
+    },
+    {
+      "word": "goals",
+      "count": 159,
+      "impact": 0.332
+    },
+    {
+      "word": "happiness",
+      "count": 160,
+      "impact": 0.331
+    },
+    {
+      "word": "new-thought",
+      "count": 172,
+      "impact": 0.33
+    },
+    {
+      "word": "positivity",
+      "count": 172,
+      "impact": 0.33
+    },
+    {
+      "word": "life-changing",
+      "count": 171,
+      "impact": 0.33
+    },
+    {
+      "word": "mind-body-spirit",
+      "count": 171,
+      "impact": 0.33
+    },
+    {
+      "word": "money",
+      "count": 150,
+      "impact": 0.33
+    },
+    {
+      "word": "inspirational",
+      "count": 145,
+      "impact": 0.325
+    },
+    {
+      "word": "focus",
+      "count": 139,
+      "impact": 0.324
+    },
+    {
+      "word": "opportunity",
+      "count": 135,
+      "impact": 0.323
+    },
+    {
+      "word": "motivational",
+      "count": 126,
+      "impact": 0.322
+    },
+    {
+      "word": "goal-setting",
+      "count": 122,
+      "impact": 0.321
+    },
+    {
+      "word": "manifestation",
+      "count": 119,
+      "impact": 0.321
+    },
+    {
+      "word": "self-motivation",
+      "count": 119,
+      "impact": 0.321
+    },
+    {
+      "word": "spirituality",
+      "count": 119,
+      "impact": 0.321
+    },
+    {
+      "word": "law-of-attraction",
+      "count": 118,
+      "impact": 0.32
+    },
+    {
+      "word": "self-belief",
+      "count": 118,
+      "impact": 0.32
+    },
+    {
+      "word": "wealth-creation",
+      "count": 118,
+      "impact": 0.32
+    },
+    {
+      "word": "spiritual",
+      "count": 118,
+      "impact": 0.32
+    },
+    {
+      "word": "abundance-creation",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "cosmic-ordering",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "manifesting",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "mind-power",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "new-age",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "positive-thoughts",
+      "count": 117,
+      "impact": 0.32
+    },
+    {
+      "word": "self-growth",
+      "count": 117,
+      "impact": 0.32
+    }
+  ],
+  "truth": [
+    {
+      "word": "truth",
+      "count": 801,
+      "impact": 0.671
+    },
+    {
+      "word": "lies",
+      "count": 81,
+      "impact": 0.23
+    },
+    {
+      "word": "life",
+      "count": 82,
+      "impact": 0.187
+    },
+    {
+      "word": "love",
+      "count": 78,
+      "impact": 0.184
+    },
+    {
+      "word": "ve",
+      "count": 457,
+      "impact": 0.176
+    },
+    {
+      "word": "honesty",
+      "count": 42,
+      "impact": 0.136
+    },
+    {
+      "word": "ll",
+      "count": 340,
+      "impact": 0.131
+    },
+    {
+      "word": "lie",
+      "count": 144,
+      "impact": 0.102
+    },
+    {
+      "word": "humor",
+      "count": 29,
+      "impact": 0.095
+    },
+    {
+      "word": "reality",
+      "count": 27,
+      "impact": 0.086
+    },
+    {
+      "word": "inspirational",
+      "count": 25,
+      "impact": 0.084
+    },
+    {
+      "word": "thing",
+      "count": 174,
+      "impact": 0.074
+    },
+    {
+      "word": "freedom",
+      "count": 24,
+      "impact": 0.072
+    },
+    {
+      "word": "people",
+      "count": 88,
+      "impact": 0.067
+    },
+    {
+      "word": "science",
+      "count": 22,
+      "impact": 0.065
+    },
+    {
+      "word": "art",
+      "count": 84,
+      "impact": 0.061
+    },
+    {
+      "word": "lying",
+      "count": 24,
+      "impact": 0.06
+    },
+    {
+      "word": "heart",
+      "count": 34,
+      "impact": 0.056
+    },
+    {
+      "word": "god",
+      "count": 28,
+      "impact": 0.056
+    },
+    {
+      "word": "belief",
+      "count": 20,
+      "impact": 0.055
+    },
+    {
+      "word": "wisdom",
+      "count": 18,
+      "impact": 0.055
+    },
+    {
+      "word": "death",
+      "count": 21,
+      "impact": 0.053
+    },
+    {
+      "word": "courage",
+      "count": 17,
+      "impact": 0.051
+    },
+    {
+      "word": "man",
+      "count": 81,
+      "impact": 0.05
+    },
+    {
+      "word": "men",
+      "count": 74,
+      "impact": 0.05
+    },
+    {
+      "word": "women",
+      "count": 21,
+      "impact": 0.048
+    },
+    {
+      "word": "faith",
+      "count": 16,
+      "impact": 0.045
+    },
+    {
+      "word": "world",
+      "count": 52,
+      "impact": 0.044
+    },
+    {
+      "word": "way",
+      "count": 94,
+      "impact": 0.043
+    },
+    {
+      "word": "fiction",
+      "count": 16,
+      "impact": 0.043
+    }
+  ],
+  "wisdom": [
+    {
+      "word": "wisdom",
+      "count": 745,
+      "impact": 0.632
+    },
+    {
+      "word": "life",
+      "count": 123,
+      "impact": 0.282
+    },
+    {
+      "word": "knowledge",
+      "count": 61,
+      "impact": 0.186
+    },
+    {
+      "word": "inspirational",
+      "count": 50,
+      "impact": 0.17
+    },
+    {
+      "word": "ve",
+      "count": 379,
+      "impact": 0.157
+    },
+    {
+      "word": "love",
+      "count": 53,
+      "impact": 0.132
+    },
+    {
+      "word": "truth",
+      "count": 42,
+      "impact": 0.113
+    },
+    {
+      "word": "wise",
+      "count": 101,
+      "impact": 0.111
+    },
+    {
+      "word": "poetry",
+      "count": 25,
+      "impact": 0.085
+    },
+    {
+      "word": "quotes",
+      "count": 25,
+      "impact": 0.082
+    },
+    {
+      "word": "humor",
+      "count": 23,
+      "impact": 0.078
+    },
+    {
+      "word": "thoughts",
+      "count": 23,
+      "impact": 0.069
+    },
+    {
+      "word": "literature",
+      "count": 20,
+      "impact": 0.065
+    },
+    {
+      "word": "time",
+      "count": 59,
+      "impact": 0.063
+    },
+    {
+      "word": "intelligence",
+      "count": 22,
+      "impact": 0.063
+    },
+    {
+      "word": "man",
+      "count": 110,
+      "impact": 0.061
+    },
+    {
+      "word": "thing",
+      "count": 127,
+      "impact": 0.06
+    },
+    {
+      "word": "poetry-quotes",
+      "count": 17,
+      "impact": 0.058
+    },
+    {
+      "word": "experience",
+      "count": 26,
+      "impact": 0.057
+    },
+    {
+      "word": "ignorance",
+      "count": 19,
+      "impact": 0.056
+    },
+    {
+      "word": "dejan-stojanovic",
+      "count": 16,
+      "impact": 0.054
+    },
+    {
+      "word": "literature-quotes",
+      "count": 16,
+      "impact": 0.054
+    },
+    {
+      "word": "god",
+      "count": 32,
+      "impact": 0.053
+    },
+    {
+      "word": "learning",
+      "count": 20,
+      "impact": 0.053
+    },
+    {
+      "word": "people",
+      "count": 50,
+      "impact": 0.052
+    },
+    {
+      "word": "peace",
+      "count": 18,
+      "impact": 0.052
+    },
+    {
+      "word": "know",
+      "count": 97,
+      "impact": 0.051
+    },
+    {
+      "word": "art",
+      "count": 67,
+      "impact": 0.051
+    },
+    {
+      "word": "understanding",
+      "count": 22,
+      "impact": 0.051
+    },
+    {
+      "word": "men",
+      "count": 77,
+      "impact": 0.05
+    }
+  ],
+  "writing": [
+    {
+      "word": "writing",
+      "count": 826,
+      "impact": 0.638
+    },
+    {
+      "word": "write",
+      "count": 306,
+      "impact": 0.178
+    },
+    {
+      "word": "writers",
+      "count": 76,
+      "impact": 0.178
+    },
+    {
+      "word": "books",
+      "count": 61,
+      "impact": 0.172
+    },
+    {
+      "word": "reading",
+      "count": 59,
+      "impact": 0.169
+    },
+    {
+      "word": "ve",
+      "count": 449,
+      "impact": 0.167
+    },
+    {
+      "word": "ll",
+      "count": 349,
+      "impact": 0.131
+    },
+    {
+      "word": "art",
+      "count": 99,
+      "impact": 0.125
+    },
+    {
+      "word": "humor",
+      "count": 34,
+      "impact": 0.111
+    },
+    {
+      "word": "words",
+      "count": 60,
+      "impact": 0.104
+    },
+    {
+      "word": "writer",
+      "count": 145,
+      "impact": 0.101
+    },
+    {
+      "word": "creativity",
+      "count": 28,
+      "impact": 0.091
+    },
+    {
+      "word": "thing",
+      "count": 183,
+      "impact": 0.076
+    },
+    {
+      "word": "fiction",
+      "count": 34,
+      "impact": 0.07
+    },
+    {
+      "word": "life",
+      "count": 60,
+      "impact": 0.068
+    },
+    {
+      "word": "literature",
+      "count": 22,
+      "impact": 0.066
+    },
+    {
+      "word": "on-writing",
+      "count": 20,
+      "impact": 0.064
+    },
+    {
+      "word": "love",
+      "count": 41,
+      "impact": 0.059
+    },
+    {
+      "word": "book",
+      "count": 95,
+      "impact": 0.058
+    },
+    {
+      "word": "story",
+      "count": 63,
+      "impact": 0.057
+    },
+    {
+      "word": "creative-process",
+      "count": 17,
+      "impact": 0.057
+    },
+    {
+      "word": "like",
+      "count": 97,
+      "impact": 0.055
+    },
+    {
+      "word": "inspirational",
+      "count": 15,
+      "impact": 0.05
+    },
+    {
+      "word": "don",
+      "count": 91,
+      "impact": 0.049
+    },
+    {
+      "word": "way",
+      "count": 104,
+      "impact": 0.047
+    },
+    {
+      "word": "read",
+      "count": 94,
+      "impact": 0.044
+    },
+    {
+      "word": "imagination",
+      "count": 19,
+      "impact": 0.044
+    },
+    {
+      "word": "stories",
+      "count": 27,
+      "impact": 0.043
+    },
+    {
+      "word": "advice",
+      "count": 17,
+      "impact": 0.042
+    },
+    {
+      "word": "inspiration",
+      "count": 14,
+      "impact": 0.041
+    }
+  ]
+}

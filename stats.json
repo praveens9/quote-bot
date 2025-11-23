@@ -1,0 +1,158 @@
+{
+  "total_quotes": 37044,
+  "total_categories": 32,
+  "categories": {
+    "arts": {
+      "quote_count": 995,
+      "keyword_count": 30
+    },
+    "books": {
+      "quote_count": 816,
+      "keyword_count": 30
+    },
+    "death": {
+      "quote_count": 731,
+      "keyword_count": 30
+    },
+    "education": {
+      "quote_count": 847,
+      "keyword_count": 30
+    },
+    "faith": {
+      "quote_count": 793,
+      "keyword_count": 30
+    },
+    "friendship": {
+      "quote_count": 594,
+      "keyword_count": 30
+    },
+    "funny": {
+      "quote_count": 559,
+      "keyword_count": 30
+    },
+    "god": {
+      "quote_count": 787,
+      "keyword_count": 30
+    },
+    "happiness": {
+      "quote_count": 847,
+      "keyword_count": 30
+    },
+    "hope": {
+      "quote_count": 1811,
+      "keyword_count": 30
+    },
+    "humor": {
+      "quote_count": 3180,
+      "keyword_count": 30
+    },
+    "inspiration": {
+      "quote_count": 4191,
+      "keyword_count": 30
+    },
+    "knowledge": {
+      "quote_count": 644,
+      "keyword_count": 30
+    },
+    "life": {
+      "quote_count": 3541,
+      "keyword_count": 30
+    },
+    "love": {
+      "quote_count": 3202,
+      "keyword_count": 30
+    },
+    "mind": {
+      "quote_count": 414,
+      "keyword_count": 30
+    },
+    "motivation": {
+      "quote_count": 21,
+      "keyword_count": 30
+    },
+    "other": {
+      "quote_count": 1397,
+      "keyword_count": 30
+    },
+    "philosophy": {
+      "quote_count": 2399,
+      "keyword_count": 30
+    },
+    "poetry": {
+      "quote_count": 732,
+      "keyword_count": 30
+    },
+    "positive": {
+      "quote_count": 260,
+      "keyword_count": 30
+    },
+    "purpose": {
+      "quote_count": 551,
+      "keyword_count": 30
+    },
+    "quotes": {
+      "quote_count": 763,
+      "keyword_count": 30
+    },
+    "relationship": {
+      "quote_count": 512,
+      "keyword_count": 30
+    },
+    "religion": {
+      "quote_count": 568,
+      "keyword_count": 30
+    },
+    "romance": {
+      "quote_count": 651,
+      "keyword_count": 30
+    },
+    "science": {
+      "quote_count": 628,
+      "keyword_count": 30
+    },
+    "soul": {
+      "quote_count": 501,
+      "keyword_count": 30
+    },
+    "success": {
+      "quote_count": 1737,
+      "keyword_count": 30
+    },
+    "truth": {
+      "quote_count": 801,
+      "keyword_count": 30
+    },
+    "wisdom": {
+      "quote_count": 745,
+      "keyword_count": 30
+    },
+    "writing": {
+      "quote_count": 826,
+      "keyword_count": 30
+    }
+  },
+  "top_authors": {
+    "Beryl Dov": 878,
+    "Jarod Kintz,  This Book is Not FOR SALE": 856,
+    "Debasish Mridha": 771,
+    "Albert Einstein": 132,
+    "Steve Maraboli,  Unapologetically You: Reflections on Life and the Human Experience": 132,
+    "Steve Maraboli,  Life, the Truth, and Being Free": 128,
+    "C. JoyBell C.": 124,
+    "Oscar Wilde": 114,
+    "Criss Jami,  Killosophy": 107,
+    "Jarod Kintz,  Love quotes for the ages. Specifically ages 18-81.": 104,
+    "Mark Twain": 97,
+    "Ralph Waldo Emerson": 94,
+    "Friedrich Nietzsche": 91,
+    "Shannon L. Alder": 86,
+    "T.F. Hodge,  From Within I Rise: Spiritual Triumph Over Death and Conscious Encounters with \"The Divine Presence\"": 77,
+    "Rumi": 76,
+    "Amy Leigh Mercree": 76,
+    "Lailah Gifty Akita": 76,
+    "Stephen Richards": 70,
+    "Mahatma Gandhi": 68
+  },
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimensions": 384
+}
